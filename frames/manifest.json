@@ -1,0 +1,125 @@
+{
+  "baseUrl": "https://cdn.jsdelivr.net/gh/anhngocnguyen1034/snapgrid-assets@main/frames",
+  "frames": [
+    {
+      "id": "frame_01",
+      "url": "frames/frame_01.webp"
+    },
+    {
+      "id": "frame_02",
+      "url": "frames/frame_02.webp"
+    },
+    {
+      "id": "frame_03",
+      "url": "frames/frame_03.webp"
+    },
+    {
+      "id": "frame_04",
+      "url": "frames/frame_04.webp"
+    },
+    {
+      "id": "frame_05",
+      "url": "frames/frame_05.webp"
+    },
+    {
+      "id": "frame_06",
+      "url": "frames/frame_06.webp"
+    },
+    {
+      "id": "frame_07",
+      "url": "frames/frame_07.webp"
+    },
+    {
+      "id": "frame_08",
+      "url": "frames/frame_08.webp"
+    },
+    {
+      "id": "frame_09",
+      "url": "frames/frame_09.webp"
+    },
+    {
+      "id": "frame_10",
+      "url": "frames/frame_10.png"
+    },
+    {
+      "id": "frame_11",
+      "url": "frames/frame_11.webp"
+    },
+    {
+      "id": "frame_12",
+      "url": "frames/frame_12.webp"
+    },
+    {
+      "id": "frame_13",
+      "url": "frames/frame_13.webp"
+    },
+    {
+      "id": "frame_14",
+      "url": "frames/frame_14.webp"
+    },
+    {
+      "id": "frame_15",
+      "url": "frames/frame_15.webp"
+    },
+    {
+      "id": "frame_16",
+      "url": "frames/frame_16.webp"
+    },
+    {
+      "id": "frame_17",
+      "url": "frames/frame_17.webp"
+    },
+    {
+      "id": "frame_18",
+      "url": "frames/frame_18.webp"
+    },
+    {
+      "id": "frame_19",
+      "url": "frames/frame_19.webp"
+    },
+    {
+      "id": "frame_20",
+      "url": "frames/frame_20.webp"
+    },
+    {
+      "id": "frame_21",
+      "url": "frames/frame_21.webp"
+    },
+    {
+      "id": "frame_22",
+      "url": "frames/frame_22.webp"
+    },
+    {
+      "id": "frame_23",
+      "url": "frames/frame_23.webp"
+    },
+    {
+      "id": "frame_24",
+      "url": "frames/frame_24.webp"
+    },
+    {
+      "id": "frame_25",
+      "url": "frames/frame_25.webp"
+    },
+    {
+      "id": "frame_26",
+      "url": "frames/frame_26.webp"
+    },
+    {
+      "id": "frame_27",
+      "url": "frames/frame_27.webp"
+    },
+    {
+      "id": "frame_28",
+      "url": "frames/frame_28.webp"
+    },
+    {
+      "id": "frame_29",
+      "url": "frames/frame_29.webp"
+    },
+    {
+      "id": "frame_30",
+      "url": "frames/frame_30.webp"
+    }
+  ]
+}

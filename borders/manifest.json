@@ -1,0 +1,177 @@
+{
+  "baseUrl": "https://cdn.jsdelivr.net/gh/anhngocnguyen1034/snapgrid-assets@main/borders",
+  "borders": [
+    {
+      "id": "border_1",
+      "url": "borders/border_1.webp"
+    },
+    {
+      "id": "border_10",
+      "url": "borders/border_10.webp"
+    },
+    {
+      "id": "border_11",
+      "url": "borders/border_11.webp"
+    },
+    {
+      "id": "border_12",
+      "url": "borders/border_12.webp"
+    },
+    {
+      "id": "border_13",
+      "url": "borders/border_13.webp"
+    },
+    {
+      "id": "border_14",
+      "url": "borders/border_14.webp"
+    },
+    {
+      "id": "border_15",
+      "url": "borders/border_15.webp"
+    },
+    {
+      "id": "border_16",
+      "url": "borders/border_16.webp"
+    },
+    {
+      "id": "border_17",
+      "url": "borders/border_17.webp"
+    },
+    {
+      "id": "border_18",
+      "url": "borders/border_18.webp"
+    },
+    {
+      "id": "border_19",
+      "url": "borders/border_19.webp"
+    },
+    {
+      "id": "border_2",
+      "url": "borders/border_2.webp"
+    },
+    {
+      "id": "border_20",
+      "url": "borders/border_20.webp"
+    },
+    {
+      "id": "border_21",
+      "url": "borders/border_21.webp"
+    },
+    {
+      "id": "border_22",
+      "url": "borders/border_22.webp"
+    },
+    {
+      "id": "border_23",
+      "url": "borders/border_23.webp"
+    },
+    {
+      "id": "border_24",
+      "url": "borders/border_24.webp"
+    },
+    {
+      "id": "border_25",
+      "url": "borders/border_25.webp"
+    },
+    {
+      "id": "border_26",
+      "url": "borders/border_26.webp"
+    },
+    {
+      "id": "border_27",
+      "url": "borders/border_27.webp"
+    },
+    {
+      "id": "border_28",
+      "url": "borders/border_28.webp"
+    },
+    {
+      "id": "border_29",
+      "url": "borders/border_29.webp"
+    },
+    {
+      "id": "border_3",
+      "url": "borders/border_3.webp"
+    },
+    {
+      "id": "border_30",
+      "url": "borders/border_30.webp"
+    },
+    {
+      "id": "border_31",
+      "url": "borders/border_31.webp"
+    },
+    {
+      "id": "border_32",
+      "url": "borders/border_32.webp"
+    },
+    {
+      "id": "border_33",
+      "url": "borders/border_33.webp"
+    },
+    {
+      "id": "border_34",
+      "url": "borders/border_34.webp"
+    },
+    {
+      "id": "border_35",
+      "url": "borders/border_35.webp"
+    },
+    {
+      "id": "border_36",
+      "url": "borders/border_36.webp"
+    },
+    {
+      "id": "border_37",
+      "url": "borders/border_37.webp"
+    },
+    {
+      "id": "border_38",
+      "url": "borders/border_38.webp"
+    },
+    {
+      "id": "border_39",
+      "url": "borders/border_39.webp"
+    },
+    {
+      "id": "border_4",
+      "url": "borders/border_4.webp"
+    },
+    {
+      "id": "border_40",
+      "url": "borders/border_40.webp"
+    },
+    {
+      "id": "border_41",
+      "url": "borders/border_41.webp"
+    },
+    {
+      "id": "border_42",
+      "url": "borders/border_42.webp"
+    },
+    {
+      "id": "border_43",
+      "url": "borders/border_43.webp"
+    },
+    {
+      "id": "border_5",
+      "url": "borders/border_5.webp"
+    },
+    {
+      "id": "border_6",
+      "url": "borders/border_6.webp"
+    },
+    {
+      "id": "border_7",
+      "url": "borders/border_7.webp"
+    },
+    {
+      "id": "border_8",
+      "url": "borders/border_8.webp"
+    },
+    {
+      "id": "border_9",
+      "url": "borders/border_9.webp"
+    }
+  ]
+}

@@ -1,0 +1,1061 @@
+{
+  "baseUrl": "https://cdn.jsdelivr.net/gh/anhngocnguyen1034/snapgrid-assets@main/templates",
+  "version": 4,
+  "categories": [
+    {
+      "id": "love",
+      "name": "Love",
+      "templates": [
+        {
+          "id": "love_01",
+          "name": "Love 01",
+          "thumbnail": "templates/love/pr_1.webp",
+          "layoutId": "collage__template_love_1",
+          "photoCount": 5,
+          "aspectRatio": "3:2",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.6087,
+              "top": 0.117,
+              "right": 0.8367,
+              "bottom": 0.447,
+              "rotation": -90
+            },
+            {
+              "left": 0.1876,
+              "top": 0.1144,
+              "right": 0.4175,
+              "bottom": 0.458,
+              "rotation": -63.43
+            },
+            {
+              "left": 0.4224,
+              "top": 0.3329,
+              "right": 0.6432,
+              "bottom": 0.6765,
+              "rotation": 82.21
+            },
+            {
+              "left": 0.6615,
+              "top": 0.5333,
+              "right": 0.8919,
+              "bottom": 0.876,
+              "rotation": -14.04
+            },
+            {
+              "left": 0.1623,
+              "top": 0.5466,
+              "right": 0.383,
+              "bottom": 0.8901,
+              "rotation": 78.1
+            }
+          ],
+          "overlay": "templates/love/1.webp"
+        },
+        {
+          "id": "love_02",
+          "name": "Love 02",
+          "thumbnail": "templates/love/pr_2.webp",
+          "layoutId": "collage__template_love_2",
+          "photoCount": 4,
+          "aspectRatio": "3:2",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.2142,
+              "top": 0.2564,
+              "right": 0.4725,
+              "bottom": 0.5574,
+              "rotation": -12.24
+            },
+            {
+              "left": 0.4994,
+              "top": 0.2301,
+              "right": 0.7686,
+              "bottom": 0.5945,
+              "rotation": -82.63
+            },
+            {
+              "left": 0.3386,
+              "top": 0.5481,
+              "right": 0.589,
+              "bottom": 0.8865,
+              "rotation": -16.11
+            },
+            {
+              "left": 0.5946,
+              "top": 0.486,
+              "right": 0.845,
+              "bottom": 0.8246,
+              "rotation": -74.53
+            }
+          ],
+          "overlay": "templates/love/2.webp"
+        },
+        {
+          "id": "love_03",
+          "name": "Love 03",
+          "thumbnail": "templates/love/pr_3.webp",
+          "layoutId": "collage__template_love_3",
+          "photoCount": 4,
+          "aspectRatio": "3:2",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.2028,
+              "top": 0.1656,
+              "right": 0.5364,
+              "bottom": 0.5179,
+              "rotation": -13.55
+            },
+            {
+              "left": 0.089,
+              "top": 0.4963,
+              "right": 0.3278,
+              "bottom": 0.8519,
+              "rotation": -65.19
+            },
+            {
+              "left": 0.4479,
+              "top": 0.425,
+              "right": 0.8215,
+              "bottom": 0.8565,
+              "rotation": 10.69
+            },
+            {
+              "left": 0.6699,
+              "top": 0.1292,
+              "right": 0.923,
+              "bottom": 0.5158,
+              "rotation": 72.53
+            }
+          ],
+          "overlay": "templates/love/3.webp"
+        },
+        {
+          "id": "love_04",
+          "name": "Love 04",
+          "thumbnail": "templates/love/pr_4.webp",
+          "layoutId": "collage__template_love_4",
+          "photoCount": 1,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.103,
+              "top": 0.1115,
+              "right": 0.8868,
+              "bottom": 0.8611,
+              "rotation": -39.42
+            }
+          ],
+          "overlay": "templates/love/4.webp"
+        },
+        {
+          "id": "love_05",
+          "name": "Love 05",
+          "thumbnail": "templates/love/pr_5.webp",
+          "layoutId": "collage__template_love_5",
+          "photoCount": 1,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.1552,
+              "top": 0.1424,
+              "right": 0.8438,
+              "bottom": 0.8311,
+              "rotation": -4.57
+            }
+          ],
+          "overlay": "templates/love/5.webp"
+        }
+      ]
+    },
+    {
+      "id": "birthday",
+      "name": "Birthday",
+      "templates": [
+        {
+          "id": "birthday_01",
+          "name": "Birthday 01",
+          "thumbnail": "templates/birthday/pr_1.webp",
+          "layoutId": "collage__template_birthday_1",
+          "photoCount": 6,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.748,
+              "top": 0.0976,
+              "right": 0.9602,
+              "bottom": 0.2522,
+              "rotation": -81.09
+            },
+            {
+              "left": 0.0738,
+              "top": 0.1877,
+              "right": 0.414,
+              "bottom": 0.4951,
+              "rotation": -10.65
+            },
+            {
+              "left": 0.7127,
+              "top": 0.3193,
+              "right": 0.9252,
+              "bottom": 0.4739,
+              "rotation": -81.09
+            },
+            {
+              "left": 0.6783,
+              "top": 0.5421,
+              "right": 0.8907,
+              "bottom": 0.6967,
+              "rotation": -81.15
+            },
+            {
+              "left": 0.2771,
+              "top": 0.5284,
+              "right": 0.5675,
+              "bottom": 0.8504,
+              "rotation": 11.42
+            },
+            {
+              "left": 0.643,
+              "top": 0.7648,
+              "right": 0.8554,
+              "bottom": 0.9195,
+              "rotation": -81.11
+            }
+          ],
+          "overlay": "templates/birthday/1.webp"
+        },
+        {
+          "id": "birthday_02",
+          "name": "Birthday 02",
+          "thumbnail": "templates/birthday/pr_2.webp",
+          "layoutId": "collage__template_birthday_2",
+          "photoCount": 9,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.3932,
+              "top": 0.0642,
+              "right": 0.6028,
+              "bottom": 0.2736,
+              "rotation": -70.02
+            },
+            {
+              "left": 0.0717,
+              "top": 0.0834,
+              "right": 0.3197,
+              "bottom": 0.3312,
+              "rotation": -20.01
+            },
+            {
+              "left": 0.6784,
+              "top": 0.0826,
+              "right": 0.9286,
+              "bottom": 0.3326,
+              "rotation": -19.98
+            },
+            {
+              "left": 0.372,
+              "top": 0.372,
+              "right": 0.627,
+              "bottom": 0.627,
+              "rotation": -19.98
+            },
+            {
+              "left": 0.091,
+              "top": 0.3948,
+              "right": 0.3002,
+              "bottom": 0.6044,
+              "rotation": 19.9
+            },
+            {
+              "left": 0.6987,
+              "top": 0.3949,
+              "right": 0.9081,
+              "bottom": 0.6042,
+              "rotation": -69.95
+            },
+            {
+              "left": 0.688,
+              "top": 0.6763,
+              "right": 0.9188,
+              "bottom": 0.9073,
+              "rotation": 69.95
+            },
+            {
+              "left": 0.0701,
+              "top": 0.6664,
+              "right": 0.3214,
+              "bottom": 0.9174,
+              "rotation": -20.03
+            },
+            {
+              "left": 0.3948,
+              "top": 0.7006,
+              "right": 0.6042,
+              "bottom": 0.9103,
+              "rotation": 19.98
+            }
+          ],
+          "overlay": "templates/birthday/2.webp"
+        },
+        {
+          "id": "birthday_03",
+          "name": "Birthday 03",
+          "thumbnail": "templates/birthday/pr_3.webp",
+          "layoutId": "collage__template_birthday_3",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.0,
+              "right": 1.0,
+              "bottom": 1.0,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/3.webp"
+        },
+        {
+          "id": "birthday_04",
+          "name": "Birthday 04",
+          "thumbnail": "templates/birthday/pr_4.webp",
+          "layoutId": "collage__template_birthday_4",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.0,
+              "right": 1.0,
+              "bottom": 0.8841,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/4.webp"
+        },
+        {
+          "id": "birthday_05",
+          "name": "Birthday 05",
+          "thumbnail": "templates/birthday/pr_5.webp",
+          "layoutId": "collage__template_birthday_5",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.0,
+              "right": 1.0,
+              "bottom": 1.0,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/5.webp"
+        },
+        {
+          "id": "birthday_06",
+          "name": "Birthday 06",
+          "thumbnail": "templates/birthday/pr_6.webp",
+          "layoutId": "collage__template_birthday_6",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.0,
+              "right": 1.0,
+              "bottom": 1.0,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/6.webp"
+        },
+        {
+          "id": "birthday_07",
+          "name": "Birthday 07",
+          "thumbnail": "templates/birthday/pr_7.webp",
+          "layoutId": "collage__template_birthday_7",
+          "photoCount": 3,
+          "aspectRatio": "5:4",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0674,
+              "top": 0.0978,
+              "right": 0.3968,
+              "bottom": 0.5279,
+              "rotation": 82.79
+            },
+            {
+              "left": 0.5081,
+              "top": 0.1618,
+              "right": 0.875,
+              "bottom": 0.496,
+              "rotation": -78.96
+            },
+            {
+              "left": 0.2239,
+              "top": 0.5987,
+              "right": 0.5689,
+              "bottom": 0.92,
+              "rotation": 1.91
+            }
+          ],
+          "overlay": "templates/birthday/7.webp"
+        },
+        {
+          "id": "birthday_08",
+          "name": "Birthday 08",
+          "thumbnail": "templates/birthday/pr_8.webp",
+          "layoutId": "collage__template_birthday_8",
+          "photoCount": 1,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.135,
+              "top": 0.106,
+              "right": 0.865,
+              "bottom": 0.894,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/8.webp"
+        },
+        {
+          "id": "birthday_09",
+          "name": "Birthday 09",
+          "thumbnail": "templates/birthday/pr_9.webp",
+          "layoutId": "collage__template_birthday_9",
+          "photoCount": 1,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.102,
+              "top": 0.174,
+              "right": 0.898,
+              "bottom": 0.896,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/9.webp"
+        },
+        {
+          "id": "birthday_10",
+          "name": "Birthday 10",
+          "thumbnail": "templates/birthday/pr_10.webp",
+          "layoutId": "collage__template_birthday_10",
+          "photoCount": 1,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.133,
+              "top": 0.133,
+              "right": 0.865,
+              "bottom": 0.865,
+              "rotation": 0
+            }
+          ],
+          "overlay": "templates/birthday/10.webp"
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "templates": [
+        {
+          "id": "travel_01",
+          "name": "Travel 01",
+          "thumbnail": "templates/travel/pr_1.webp",
+          "overlay": "templates/travel/1.webp",
+          "layoutId": "collage__template_travel_1",
+          "photoCount": 2,
+          "aspectRatio": "16:9",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.4601,
+              "top": 0.5205,
+              "right": 0.9092,
+              "bottom": 0.9995,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.56,
+              "top": -0.05,
+              "right": 1.05,
+              "bottom": 0.57,
+              "rotation": 10.8
+            }
+          ]
+        },
+        {
+          "id": "travel_02",
+          "name": "Travel 02",
+          "thumbnail": "templates/travel/pr_2.webp",
+          "overlay": "templates/travel/2.webp",
+          "layoutId": "collage__template_travel_2",
+          "photoCount": 7,
+          "aspectRatio": "3:4",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.7215,
+              "top": 0.0479,
+              "right": 0.9385,
+              "bottom": 0.2775,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0695,
+              "top": 0.0507,
+              "right": 0.5515,
+              "bottom": 0.2929,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.624,
+              "top": 0.2604,
+              "right": 0.839,
+              "bottom": 0.4886,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.579,
+              "top": 0.5,
+              "right": 0.9835,
+              "bottom": 0.6843,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.049,
+              "top": 0.5564,
+              "right": 0.4335,
+              "bottom": 0.7179,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.6765,
+              "top": 0.7075,
+              "right": 0.908,
+              "bottom": 0.9682,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.096,
+              "top": 0.7289,
+              "right": 0.4915,
+              "bottom": 0.9546,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "travel_03",
+          "name": "Travel 03",
+          "thumbnail": "templates/travel/pr_3.webp",
+          "overlay": "templates/travel/3.webp",
+          "layoutId": "collage__template_travel_3",
+          "photoCount": 6,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.0,
+              "right": 0.489,
+              "bottom": 0.4244,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.5105,
+              "top": 0.0,
+              "right": 0.9995,
+              "bottom": 0.275,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.5105,
+              "top": 0.2871,
+              "right": 0.9995,
+              "bottom": 0.5621,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0,
+              "top": 0.4376,
+              "right": 0.489,
+              "bottom": 0.7126,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.5105,
+              "top": 0.574,
+              "right": 0.9995,
+              "bottom": 0.9997,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0,
+              "top": 0.7247,
+              "right": 0.489,
+              "bottom": 0.9997,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "travel_04",
+          "name": "Travel 04",
+          "thumbnail": "templates/travel/pr_4.webp",
+          "overlay": "templates/travel/4.webp",
+          "layoutId": "collage__template_travel_4",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.2506,
+              "right": 0.9995,
+              "bottom": 0.845,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "travel_05",
+          "name": "Travel 05",
+          "thumbnail": "templates/travel/pr_5.webp",
+          "overlay": "templates/travel/5.webp",
+          "layoutId": "collage__template_travel_5",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.222,
+              "top": 0.0586,
+              "right": 0.9995,
+              "bottom": 0.8307,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "travel_06",
+          "name": "Travel 06",
+          "thumbnail": "templates/travel/pr_6.webp",
+          "overlay": "templates/travel/6.webp",
+          "layoutId": "collage__template_travel_6",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.1791,
+              "right": 0.9085,
+              "bottom": 0.9997,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "travel_07",
+          "name": "Travel 07",
+          "thumbnail": "templates/travel/pr_7.webp",
+          "overlay": "templates/travel/7.webp",
+          "layoutId": "collage__template_travel_7",
+          "photoCount": 1,
+          "aspectRatio": "9:16",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0,
+              "top": 0.3372,
+              "right": 0.9995,
+              "bottom": 0.8464,
+              "rotation": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "templates": [
+        {
+          "id": "family_01",
+          "name": "Family 01",
+          "thumbnail": "templates/family/pr_1.webp",
+          "overlay": "templates/family/1.webp",
+          "layoutId": "collage__template_family_1",
+          "photoCount": 3,
+          "aspectRatio": "2:3",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0345,
+              "top": 0.1817,
+              "right": 0.545,
+              "bottom": 0.4217,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0846,
+              "top": 0.6653,
+              "right": 0.6393,
+              "bottom": 0.9264,
+              "rotation": 13.8
+            },
+            {
+              "left": 0.4438,
+              "top": 0.5054,
+              "right": 0.9435,
+              "bottom": 0.7413,
+              "rotation": -5.8
+            }
+          ]
+        },
+        {
+          "id": "family_02",
+          "name": "Family 02",
+          "thumbnail": "templates/family/pr_2.webp",
+          "overlay": "templates/family/2.webp",
+          "layoutId": "collage__template_family_2",
+          "photoCount": 2,
+          "aspectRatio": "3:2",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.1097,
+              "top": 0.1445,
+              "right": 0.5635,
+              "bottom": 0.566,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.4658,
+              "top": 0.456,
+              "right": 0.9193,
+              "bottom": 0.878,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "family_03",
+          "name": "Family 03",
+          "thumbnail": "templates/family/pr_3.webp",
+          "overlay": "templates/family/3.webp",
+          "layoutId": "collage__template_family_3",
+          "photoCount": 2,
+          "aspectRatio": "16:9",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.2821,
+              "top": 0.5565,
+              "right": 0.7728,
+              "bottom": 0.9995,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.5297,
+              "top": 0.0446,
+              "right": 0.9553,
+              "bottom": 0.801,
+              "rotation": 15.7
+            }
+          ]
+        },
+        {
+          "id": "family_04",
+          "name": "Family 04",
+          "thumbnail": "templates/family/pr_4.webp",
+          "overlay": "templates/family/4.webp",
+          "layoutId": "collage__template_family_4",
+          "photoCount": 3,
+          "aspectRatio": "1:1",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.583,
+              "top": 0.3025,
+              "right": 0.9015,
+              "bottom": 0.7085,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.305,
+              "top": 0.0925,
+              "right": 0.6235,
+              "bottom": 0.4985,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.102,
+              "top": 0.522,
+              "right": 0.4205,
+              "bottom": 0.928,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "family_05",
+          "name": "Family 05",
+          "thumbnail": "templates/family/pr_5.webp",
+          "overlay": "templates/family/5.webp",
+          "layoutId": "collage__template_family_5",
+          "photoCount": 3,
+          "aspectRatio": "3:2",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.6875,
+              "top": 0.1485,
+              "right": 0.9529,
+              "bottom": 0.4869,
+              "rotation": 4.7
+            },
+            {
+              "left": 0.6363,
+              "top": 0.5313,
+              "right": 0.9114,
+              "bottom": 0.8821,
+              "rotation": -12.2
+            },
+            {
+              "left": 0.2388,
+              "top": 0.1797,
+              "right": 0.6694,
+              "bottom": 0.7288,
+              "rotation": 11.5
+            }
+          ]
+        },
+        {
+          "id": "family_06",
+          "name": "Family 06",
+          "thumbnail": "templates/family/pr_6.webp",
+          "overlay": "templates/family/6.webp",
+          "layoutId": "collage__template_family_6",
+          "photoCount": 5,
+          "aspectRatio": "16:9",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.2972,
+              "top": 0.098,
+              "right": 0.7013,
+              "bottom": 0.3761,
+              "rotation": 2.2
+            },
+            {
+              "left": 0.054,
+              "top": 0.3517,
+              "right": 0.2382,
+              "bottom": 0.7524,
+              "rotation": -3.3
+            },
+            {
+              "left": 0.7563,
+              "top": 0.3915,
+              "right": 0.9405,
+              "bottom": 0.7924,
+              "rotation": 9.8
+            },
+            {
+              "left": 0.2937,
+              "top": 0.654,
+              "right": 0.4199,
+              "bottom": 0.9286,
+              "rotation": -3.3
+            },
+            {
+              "left": 0.4801,
+              "top": 0.6725,
+              "right": 0.676,
+              "bottom": 0.9189,
+              "rotation": 4.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anniversary",
+      "name": "Anniversary",
+      "templates": [
+        {
+          "id": "anniversary_01",
+          "name": "Anniversary 01",
+          "thumbnail": "templates/anniversary/pr_1.webp",
+          "overlay": "templates/anniversary/1.webp",
+          "layoutId": "collage__template_anniversary_1",
+          "photoCount": 12,
+          "aspectRatio": "3:4",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.0595,
+              "top": 0.055,
+              "right": 0.2935,
+              "bottom": 0.235,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.3795,
+              "top": 0.055,
+              "right": 0.6135,
+              "bottom": 0.235,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.6995,
+              "top": 0.055,
+              "right": 0.9335,
+              "bottom": 0.235,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.3795,
+              "top": 0.29,
+              "right": 0.6135,
+              "bottom": 0.47,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.6995,
+              "top": 0.29,
+              "right": 0.9335,
+              "bottom": 0.47,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0595,
+              "top": 0.3046,
+              "right": 0.2935,
+              "bottom": 0.47,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0605,
+              "top": 0.5254,
+              "right": 0.2945,
+              "bottom": 0.7054,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.3795,
+              "top": 0.5254,
+              "right": 0.6135,
+              "bottom": 0.7054,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.6995,
+              "top": 0.5254,
+              "right": 0.9335,
+              "bottom": 0.7054,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.3795,
+              "top": 0.7604,
+              "right": 0.6135,
+              "bottom": 0.9404,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.6995,
+              "top": 0.7604,
+              "right": 0.9335,
+              "bottom": 0.9404,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.0605,
+              "top": 0.7619,
+              "right": 0.2945,
+              "bottom": 0.9404,
+              "rotation": 0.0
+            }
+          ]
+        },
+        {
+          "id": "anniversary_02",
+          "name": "Anniversary 02",
+          "thumbnail": "templates/anniversary/pr_2.webp",
+          "overlay": "templates/anniversary/2.webp",
+          "layoutId": "collage__template_anniversary_2",
+          "photoCount": 6,
+          "aspectRatio": "3:2",
+          "isPro": false,
+          "cells": [
+            {
+              "left": 0.3601,
+              "top": 0.1125,
+              "right": 0.6279,
+              "bottom": 0.614,
+              "rotation": 0.0
+            },
+            {
+              "left": 0.7215,
+              "top": 0.1256,
+              "right": 0.9159,
+              "bottom": 0.4022,
+              "rotation": 10.5
+            },
+            {
+              "left": 0.0889,
+              "top": 0.1459,
+              "right": 0.2941,
+              "bottom": 0.4378,
+              "rotation": -9.4
+            },
+            {
+              "left": 0.7548,
+              "top": 0.5029,
+              "right": 0.9272,
+              "bottom": 0.8149,
+              "rotation": 5.9
+            },
+            {
+              "left": 0.3133,
+              "top": 0.5795,
+              "right": 0.4858,
+              "bottom": 0.9026,
+              "rotation": 9.7
+            },
+            {
+              "left": 0.072,
+              "top": 0.5835,
+              "right": 0.2441,
+              "bottom": 0.8895,
+              "rotation": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

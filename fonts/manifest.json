@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/anhngocnguyen1034/snapgrid-assets@main/fonts/fonts",
+  "fonts": [
+    {
+      "name": "Abril Fatface",
+      "files": [
+        "abrilfatface_regular.ttf"
+      ]
+    },
+    {
+      "name": "Alfa Slab One",
+      "files": [
+        "alfaslabone_regular.ttf"
+      ]
+    },
+    {
+      "name": "Amatic SC",
+      "files": [
+        "amaticsc_regular.ttf",
+        "amaticsc_bold.ttf"
+      ]
+    },
+    {
+      "name": "Anton",
+      "files": [
+        "anton_regular.ttf"
+      ]
+    },
+    {
+      "name": "Archivo Black",
+      "files": [
+        "archivoblack_regular.ttf"
+      ]
+    },
+    {
+      "name": "Bebas Neue",
+      "files": [
+        "bebasneue_regular.ttf"
+      ]
+    },
+    {
+      "name": "Caveat",
+      "files": [
+        "caveat_regular.ttf",
+        "caveat_bold.ttf"
+      ]
+    },
+    {
+      "name": "Cinzel",
+      "files": [
+        "cinzel_regular.ttf",
+        "cinzel_bold.ttf"
+      ]
+    },
+    {
+      "name": "Cormorant Garamond",
+      "files": [
+        "cormorantgaramond_regular.ttf",
+        "cormorantgaramond_bold.ttf"
+      ]
+    },
+    {
+      "name": "DM Serif Display",
+      "files": [
+        "dmserifdisplay_regular.ttf"
+      ]
+    },
+    {
+      "name": "Dancing Script",
+      "files": [
+        "dancingscript_regular.ttf",
+        "dancingscript_bold.ttf"
+      ]
+    },
+    {
+      "name": "Great Vibes",
+      "files": [
+        "greatvibes_regular.ttf"
+      ]
+    },
+    {
+      "name": "Indie Flower",
+      "files": [
+        "indieflower_regular.ttf"
+      ]
+    },
+    {
+      "name": "Inter",
+      "files": [
+        "inter_regular.ttf",
+        "inter_bold.ttf"
+      ]
+    },
+    {
+      "name": "Lilita One",
+      "files": [
+        "lilitaone_regular.ttf"
+      ]
+    },
+    {
+      "name": "Lora",
+      "files": [
+        "lora_regular.ttf",
+        "lora_bold.ttf"
+      ]
+    },
+    {
+      "name": "Montserrat",
+      "files": [
+        "montserrat_regular.ttf",
+        "montserrat_bold.ttf"
+      ]
+    },
+    {
+      "name": "Oswald",
+      "files": [
+        "oswald_regular.ttf",
+        "oswald_bold.ttf"
+      ]
+    },
+    {
+      "name": "Pacifico",
+      "files": [
+        "pacifico_regular.ttf"
+      ]
+    },
+    {
+      "name": "Playfair Display",
+      "files": [
+        "playfairdisplay_regular.ttf",
+        "playfairdisplay_bold.ttf"
+      ]
+    },
+    {
+      "name": "Prata",
+      "files": [
+        "prata_regular.ttf"
+      ]
+    },
+    {
+      "name": "Quicksand",
+      "files": [
+        "quicksand_regular.ttf",
+        "quicksand_bold.ttf"
+      ]
+    },
+    {
+      "name": "Raleway",
+      "files": [
+        "raleway_regular.ttf",
+        "raleway_bold.ttf"
+      ]
+    },
+    {
+      "name": "Shadows Into Light",
+      "files": [
+        "shadowsintolight_regular.ttf"
+      ]
+    },
+    {
+      "name": "Shrikhand",
+      "files": [
+        "shrikhand_regular.ttf"
+      ]
+    },
+    {
+      "name": "Space Grotesk",
+      "files": [
+        "spacegrotesk_regular.ttf",
+        "spacegrotesk_bold.ttf"
+      ]
+    },
+    {
+      "name": "Syne",
+      "files": [
+        "syne_regular.ttf",
+        "syne_bold.ttf"
+      ]
+    },
+    {
+      "name": "Titan One",
+      "files": [
+        "titanone_regular.ttf"
+      ]
+    }
+  ]
+}

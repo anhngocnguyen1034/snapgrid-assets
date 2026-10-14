@@ -1,0 +1,2498 @@
+{
+  "baseUrl": "https://cdn.jsdelivr.net/gh/anhngocnguyen1034/snapgrid-assets@main/stickers",
+  "albums": [
+    {
+      "id": "animal",
+      "name": "Animal",
+      "icon": "albums/animal/icon.webp",
+      "stickers": [
+        {
+          "id": "animal-animal",
+          "url": "albums/animal/animal.webp",
+          "legacyPath": "stickers/animal/animal.webp"
+        },
+        {
+          "id": "animal-animal1",
+          "url": "albums/animal/animal1.webp",
+          "legacyPath": "stickers/animal/animal1.webp"
+        },
+        {
+          "id": "animal-animal10",
+          "url": "albums/animal/animal10.webp",
+          "legacyPath": "stickers/animal/animal10.webp"
+        },
+        {
+          "id": "animal-animal11",
+          "url": "albums/animal/animal11.webp",
+          "legacyPath": "stickers/animal/animal11.webp"
+        },
+        {
+          "id": "animal-animal12",
+          "url": "albums/animal/animal12.webp",
+          "legacyPath": "stickers/animal/animal12.webp"
+        },
+        {
+          "id": "animal-animal13",
+          "url": "albums/animal/animal13.webp",
+          "legacyPath": "stickers/animal/animal13.webp"
+        },
+        {
+          "id": "animal-animal14",
+          "url": "albums/animal/animal14.webp",
+          "legacyPath": "stickers/animal/animal14.webp"
+        },
+        {
+          "id": "animal-animal15",
+          "url": "albums/animal/animal15.webp",
+          "legacyPath": "stickers/animal/animal15.webp"
+        },
+        {
+          "id": "animal-animal16",
+          "url": "albums/animal/animal16.webp",
+          "legacyPath": "stickers/animal/animal16.webp"
+        },
+        {
+          "id": "animal-animal17",
+          "url": "albums/animal/animal17.webp",
+          "legacyPath": "stickers/animal/animal17.webp"
+        },
+        {
+          "id": "animal-animal18",
+          "url": "albums/animal/animal18.webp",
+          "legacyPath": "stickers/animal/animal18.webp"
+        },
+        {
+          "id": "animal-animal19",
+          "url": "albums/animal/animal19.webp",
+          "legacyPath": "stickers/animal/animal19.webp"
+        },
+        {
+          "id": "animal-animal2",
+          "url": "albums/animal/animal2.webp",
+          "legacyPath": "stickers/animal/animal2.webp"
+        },
+        {
+          "id": "animal-animal20",
+          "url": "albums/animal/animal20.webp",
+          "legacyPath": "stickers/animal/animal20.webp"
+        },
+        {
+          "id": "animal-animal21",
+          "url": "albums/animal/animal21.webp",
+          "legacyPath": "stickers/animal/animal21.webp"
+        },
+        {
+          "id": "animal-animal3",
+          "url": "albums/animal/animal3.webp",
+          "legacyPath": "stickers/animal/animal3.webp"
+        },
+        {
+          "id": "animal-animal4",
+          "url": "albums/animal/animal4.webp",
+          "legacyPath": "stickers/animal/animal4.webp"
+        },
+        {
+          "id": "animal-animal5",
+          "url": "albums/animal/animal5.webp",
+          "legacyPath": "stickers/animal/animal5.webp"
+        },
+        {
+          "id": "animal-animal6",
+          "url": "albums/animal/animal6.webp",
+          "legacyPath": "stickers/animal/animal6.webp"
+        },
+        {
+          "id": "animal-animal7",
+          "url": "albums/animal/animal7.webp",
+          "legacyPath": "stickers/animal/animal7.webp"
+        },
+        {
+          "id": "animal-animal8",
+          "url": "albums/animal/animal8.webp",
+          "legacyPath": "stickers/animal/animal8.webp"
+        },
+        {
+          "id": "animal-animal9",
+          "url": "albums/animal/animal9.webp",
+          "legacyPath": "stickers/animal/animal9.webp"
+        }
+      ]
+    },
+    {
+      "id": "baby-cute",
+      "name": "Baby Cute",
+      "icon": "albums/baby-cute/icon.webp",
+      "stickers": [
+        {
+          "id": "baby-cute-a",
+          "url": "albums/baby-cute/a.webp",
+          "legacyPath": "stickers/baby_cute/a.webp"
+        },
+        {
+          "id": "baby-cute-b",
+          "url": "albums/baby-cute/b.webp",
+          "legacyPath": "stickers/baby_cute/b.webp"
+        },
+        {
+          "id": "baby-cute-c",
+          "url": "albums/baby-cute/c.webp",
+          "legacyPath": "stickers/baby_cute/c.webp"
+        },
+        {
+          "id": "baby-cute-d",
+          "url": "albums/baby-cute/d.webp",
+          "legacyPath": "stickers/baby_cute/d.webp"
+        },
+        {
+          "id": "baby-cute-e",
+          "url": "albums/baby-cute/e.webp",
+          "legacyPath": "stickers/baby_cute/e.webp"
+        },
+        {
+          "id": "baby-cute-f",
+          "url": "albums/baby-cute/f.webp",
+          "legacyPath": "stickers/baby_cute/f.webp"
+        },
+        {
+          "id": "baby-cute-g",
+          "url": "albums/baby-cute/g.webp",
+          "legacyPath": "stickers/baby_cute/g.webp"
+        },
+        {
+          "id": "baby-cute-h",
+          "url": "albums/baby-cute/h.webp",
+          "legacyPath": "stickers/baby_cute/h.webp"
+        },
+        {
+          "id": "baby-cute-i",
+          "url": "albums/baby-cute/i.webp",
+          "legacyPath": "stickers/baby_cute/i.webp"
+        },
+        {
+          "id": "baby-cute-k",
+          "url": "albums/baby-cute/k.webp",
+          "legacyPath": "stickers/baby_cute/k.webp"
+        },
+        {
+          "id": "baby-cute-l",
+          "url": "albums/baby-cute/l.webp",
+          "legacyPath": "stickers/baby_cute/l.webp"
+        },
+        {
+          "id": "baby-cute-m",
+          "url": "albums/baby-cute/m.webp",
+          "legacyPath": "stickers/baby_cute/m.webp"
+        },
+        {
+          "id": "baby-cute-n",
+          "url": "albums/baby-cute/n.webp",
+          "legacyPath": "stickers/baby_cute/n.webp"
+        },
+        {
+          "id": "baby-cute-o",
+          "url": "albums/baby-cute/o.webp",
+          "legacyPath": "stickers/baby_cute/o.webp"
+        }
+      ]
+    },
+    {
+      "id": "chick",
+      "name": "Chick",
+      "icon": "albums/chick/icon.webp",
+      "stickers": [
+        {
+          "id": "chick-Group-1",
+          "url": "albums/chick/Group-1.webp",
+          "legacyPath": "stickers/chick_sticker/Group-1.webp"
+        },
+        {
+          "id": "chick-Group-10",
+          "url": "albums/chick/Group-10.webp",
+          "legacyPath": "stickers/chick_sticker/Group-10.webp"
+        },
+        {
+          "id": "chick-Group-11",
+          "url": "albums/chick/Group-11.webp",
+          "legacyPath": "stickers/chick_sticker/Group-11.webp"
+        },
+        {
+          "id": "chick-Group-12",
+          "url": "albums/chick/Group-12.webp",
+          "legacyPath": "stickers/chick_sticker/Group-12.webp"
+        },
+        {
+          "id": "chick-Group-13",
+          "url": "albums/chick/Group-13.webp",
+          "legacyPath": "stickers/chick_sticker/Group-13.webp"
+        },
+        {
+          "id": "chick-Group-14",
+          "url": "albums/chick/Group-14.webp",
+          "legacyPath": "stickers/chick_sticker/Group-14.webp"
+        },
+        {
+          "id": "chick-Group-15",
+          "url": "albums/chick/Group-15.webp",
+          "legacyPath": "stickers/chick_sticker/Group-15.webp"
+        },
+        {
+          "id": "chick-Group-16",
+          "url": "albums/chick/Group-16.webp",
+          "legacyPath": "stickers/chick_sticker/Group-16.webp"
+        },
+        {
+          "id": "chick-Group-17",
+          "url": "albums/chick/Group-17.webp",
+          "legacyPath": "stickers/chick_sticker/Group-17.webp"
+        },
+        {
+          "id": "chick-Group-18",
+          "url": "albums/chick/Group-18.webp",
+          "legacyPath": "stickers/chick_sticker/Group-18.webp"
+        },
+        {
+          "id": "chick-Group-19",
+          "url": "albums/chick/Group-19.webp",
+          "legacyPath": "stickers/chick_sticker/Group-19.webp"
+        },
+        {
+          "id": "chick-Group-2",
+          "url": "albums/chick/Group-2.webp",
+          "legacyPath": "stickers/chick_sticker/Group-2.webp"
+        },
+        {
+          "id": "chick-Group-3",
+          "url": "albums/chick/Group-3.webp",
+          "legacyPath": "stickers/chick_sticker/Group-3.webp"
+        },
+        {
+          "id": "chick-Group-4",
+          "url": "albums/chick/Group-4.webp",
+          "legacyPath": "stickers/chick_sticker/Group-4.webp"
+        },
+        {
+          "id": "chick-Group-5",
+          "url": "albums/chick/Group-5.webp",
+          "legacyPath": "stickers/chick_sticker/Group-5.webp"
+        },
+        {
+          "id": "chick-Group-6",
+          "url": "albums/chick/Group-6.webp",
+          "legacyPath": "stickers/chick_sticker/Group-6.webp"
+        },
+        {
+          "id": "chick-Group-7",
+          "url": "albums/chick/Group-7.webp",
+          "legacyPath": "stickers/chick_sticker/Group-7.webp"
+        },
+        {
+          "id": "chick-Group-8",
+          "url": "albums/chick/Group-8.webp",
+          "legacyPath": "stickers/chick_sticker/Group-8.webp"
+        },
+        {
+          "id": "chick-Group-9",
+          "url": "albums/chick/Group-9.webp",
+          "legacyPath": "stickers/chick_sticker/Group-9.webp"
+        },
+        {
+          "id": "chick-Group",
+          "url": "albums/chick/Group.webp",
+          "legacyPath": "stickers/chick_sticker/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "cute-chicken",
+      "name": "Cute Chicken",
+      "icon": "albums/cute-chicken/icon.webp",
+      "stickers": [
+        {
+          "id": "cute-chicken-Group-1",
+          "url": "albums/cute-chicken/Group-1.webp",
+          "legacyPath": "stickers/cute_chicken/Group-1.webp"
+        },
+        {
+          "id": "cute-chicken-Group-2",
+          "url": "albums/cute-chicken/Group-2.webp",
+          "legacyPath": "stickers/cute_chicken/Group-2.webp"
+        },
+        {
+          "id": "cute-chicken-Group-3",
+          "url": "albums/cute-chicken/Group-3.webp",
+          "legacyPath": "stickers/cute_chicken/Group-3.webp"
+        },
+        {
+          "id": "cute-chicken-Group-4",
+          "url": "albums/cute-chicken/Group-4.webp",
+          "legacyPath": "stickers/cute_chicken/Group-4.webp"
+        },
+        {
+          "id": "cute-chicken-Group-5",
+          "url": "albums/cute-chicken/Group-5.webp",
+          "legacyPath": "stickers/cute_chicken/Group-5.webp"
+        },
+        {
+          "id": "cute-chicken-Group-6",
+          "url": "albums/cute-chicken/Group-6.webp",
+          "legacyPath": "stickers/cute_chicken/Group-6.webp"
+        },
+        {
+          "id": "cute-chicken-Group-7",
+          "url": "albums/cute-chicken/Group-7.webp",
+          "legacyPath": "stickers/cute_chicken/Group-7.webp"
+        },
+        {
+          "id": "cute-chicken-Group-8",
+          "url": "albums/cute-chicken/Group-8.webp",
+          "legacyPath": "stickers/cute_chicken/Group-8.webp"
+        },
+        {
+          "id": "cute-chicken-Group",
+          "url": "albums/cute-chicken/Group.webp",
+          "legacyPath": "stickers/cute_chicken/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "cute-face-1",
+      "name": "Cute Face 1",
+      "icon": "albums/cute-face-1/icon.webp",
+      "stickers": [
+        {
+          "id": "cute-face-1-Group 1",
+          "url": "albums/cute-face-1/Group 1.webp",
+          "legacyPath": "stickers/cute_face_1/Group 1.webp"
+        },
+        {
+          "id": "cute-face-1-Group 10",
+          "url": "albums/cute-face-1/Group 10.webp",
+          "legacyPath": "stickers/cute_face_1/Group 10.webp"
+        },
+        {
+          "id": "cute-face-1-Group 11",
+          "url": "albums/cute-face-1/Group 11.webp",
+          "legacyPath": "stickers/cute_face_1/Group 11.webp"
+        },
+        {
+          "id": "cute-face-1-Group 12",
+          "url": "albums/cute-face-1/Group 12.webp",
+          "legacyPath": "stickers/cute_face_1/Group 12.webp"
+        },
+        {
+          "id": "cute-face-1-Group 13",
+          "url": "albums/cute-face-1/Group 13.webp",
+          "legacyPath": "stickers/cute_face_1/Group 13.webp"
+        },
+        {
+          "id": "cute-face-1-Group 14",
+          "url": "albums/cute-face-1/Group 14.webp",
+          "legacyPath": "stickers/cute_face_1/Group 14.webp"
+        },
+        {
+          "id": "cute-face-1-Group 15",
+          "url": "albums/cute-face-1/Group 15.webp",
+          "legacyPath": "stickers/cute_face_1/Group 15.webp"
+        },
+        {
+          "id": "cute-face-1-Group 16",
+          "url": "albums/cute-face-1/Group 16.webp",
+          "legacyPath": "stickers/cute_face_1/Group 16.webp"
+        },
+        {
+          "id": "cute-face-1-Group 17",
+          "url": "albums/cute-face-1/Group 17.webp",
+          "legacyPath": "stickers/cute_face_1/Group 17.webp"
+        },
+        {
+          "id": "cute-face-1-Group 18",
+          "url": "albums/cute-face-1/Group 18.webp",
+          "legacyPath": "stickers/cute_face_1/Group 18.webp"
+        },
+        {
+          "id": "cute-face-1-Group 19",
+          "url": "albums/cute-face-1/Group 19.webp",
+          "legacyPath": "stickers/cute_face_1/Group 19.webp"
+        },
+        {
+          "id": "cute-face-1-Group 2",
+          "url": "albums/cute-face-1/Group 2.webp",
+          "legacyPath": "stickers/cute_face_1/Group 2.webp"
+        },
+        {
+          "id": "cute-face-1-Group 20",
+          "url": "albums/cute-face-1/Group 20.webp",
+          "legacyPath": "stickers/cute_face_1/Group 20.webp"
+        },
+        {
+          "id": "cute-face-1-Group 21",
+          "url": "albums/cute-face-1/Group 21.webp",
+          "legacyPath": "stickers/cute_face_1/Group 21.webp"
+        },
+        {
+          "id": "cute-face-1-Group 22",
+          "url": "albums/cute-face-1/Group 22.webp",
+          "legacyPath": "stickers/cute_face_1/Group 22.webp"
+        },
+        {
+          "id": "cute-face-1-Group 23",
+          "url": "albums/cute-face-1/Group 23.webp",
+          "legacyPath": "stickers/cute_face_1/Group 23.webp"
+        },
+        {
+          "id": "cute-face-1-Group 24",
+          "url": "albums/cute-face-1/Group 24.webp",
+          "legacyPath": "stickers/cute_face_1/Group 24.webp"
+        },
+        {
+          "id": "cute-face-1-Group 25",
+          "url": "albums/cute-face-1/Group 25.webp",
+          "legacyPath": "stickers/cute_face_1/Group 25.webp"
+        },
+        {
+          "id": "cute-face-1-Group 26",
+          "url": "albums/cute-face-1/Group 26.webp",
+          "legacyPath": "stickers/cute_face_1/Group 26.webp"
+        },
+        {
+          "id": "cute-face-1-Group 27",
+          "url": "albums/cute-face-1/Group 27.webp",
+          "legacyPath": "stickers/cute_face_1/Group 27.webp"
+        },
+        {
+          "id": "cute-face-1-Group 28",
+          "url": "albums/cute-face-1/Group 28.webp",
+          "legacyPath": "stickers/cute_face_1/Group 28.webp"
+        },
+        {
+          "id": "cute-face-1-Group 29",
+          "url": "albums/cute-face-1/Group 29.webp",
+          "legacyPath": "stickers/cute_face_1/Group 29.webp"
+        },
+        {
+          "id": "cute-face-1-Group 3",
+          "url": "albums/cute-face-1/Group 3.webp",
+          "legacyPath": "stickers/cute_face_1/Group 3.webp"
+        },
+        {
+          "id": "cute-face-1-Group 30",
+          "url": "albums/cute-face-1/Group 30.webp",
+          "legacyPath": "stickers/cute_face_1/Group 30.webp"
+        },
+        {
+          "id": "cute-face-1-Group 4",
+          "url": "albums/cute-face-1/Group 4.webp",
+          "legacyPath": "stickers/cute_face_1/Group 4.webp"
+        },
+        {
+          "id": "cute-face-1-Group 5",
+          "url": "albums/cute-face-1/Group 5.webp",
+          "legacyPath": "stickers/cute_face_1/Group 5.webp"
+        },
+        {
+          "id": "cute-face-1-Group 6",
+          "url": "albums/cute-face-1/Group 6.webp",
+          "legacyPath": "stickers/cute_face_1/Group 6.webp"
+        },
+        {
+          "id": "cute-face-1-Group 7",
+          "url": "albums/cute-face-1/Group 7.webp",
+          "legacyPath": "stickers/cute_face_1/Group 7.webp"
+        },
+        {
+          "id": "cute-face-1-Group 8",
+          "url": "albums/cute-face-1/Group 8.webp",
+          "legacyPath": "stickers/cute_face_1/Group 8.webp"
+        },
+        {
+          "id": "cute-face-1-Group 9",
+          "url": "albums/cute-face-1/Group 9.webp",
+          "legacyPath": "stickers/cute_face_1/Group 9.webp"
+        }
+      ]
+    },
+    {
+      "id": "cute-face-2",
+      "name": "Cute Face 2",
+      "icon": "albums/cute-face-2/icon.webp",
+      "stickers": [
+        {
+          "id": "cute-face-2-Group-1",
+          "url": "albums/cute-face-2/Group-1.webp",
+          "legacyPath": "stickers/cute_face_2/Group-1.webp"
+        },
+        {
+          "id": "cute-face-2-Group-10",
+          "url": "albums/cute-face-2/Group-10.webp",
+          "legacyPath": "stickers/cute_face_2/Group-10.webp"
+        },
+        {
+          "id": "cute-face-2-Group-11",
+          "url": "albums/cute-face-2/Group-11.webp",
+          "legacyPath": "stickers/cute_face_2/Group-11.webp"
+        },
+        {
+          "id": "cute-face-2-Group-12",
+          "url": "albums/cute-face-2/Group-12.webp",
+          "legacyPath": "stickers/cute_face_2/Group-12.webp"
+        },
+        {
+          "id": "cute-face-2-Group-13",
+          "url": "albums/cute-face-2/Group-13.webp",
+          "legacyPath": "stickers/cute_face_2/Group-13.webp"
+        },
+        {
+          "id": "cute-face-2-Group-14",
+          "url": "albums/cute-face-2/Group-14.webp",
+          "legacyPath": "stickers/cute_face_2/Group-14.webp"
+        },
+        {
+          "id": "cute-face-2-Group-15",
+          "url": "albums/cute-face-2/Group-15.webp",
+          "legacyPath": "stickers/cute_face_2/Group-15.webp"
+        },
+        {
+          "id": "cute-face-2-Group-16",
+          "url": "albums/cute-face-2/Group-16.webp",
+          "legacyPath": "stickers/cute_face_2/Group-16.webp"
+        },
+        {
+          "id": "cute-face-2-Group-17",
+          "url": "albums/cute-face-2/Group-17.webp",
+          "legacyPath": "stickers/cute_face_2/Group-17.webp"
+        },
+        {
+          "id": "cute-face-2-Group-18",
+          "url": "albums/cute-face-2/Group-18.webp",
+          "legacyPath": "stickers/cute_face_2/Group-18.webp"
+        },
+        {
+          "id": "cute-face-2-Group-19",
+          "url": "albums/cute-face-2/Group-19.webp",
+          "legacyPath": "stickers/cute_face_2/Group-19.webp"
+        },
+        {
+          "id": "cute-face-2-Group-2",
+          "url": "albums/cute-face-2/Group-2.webp",
+          "legacyPath": "stickers/cute_face_2/Group-2.webp"
+        },
+        {
+          "id": "cute-face-2-Group-20",
+          "url": "albums/cute-face-2/Group-20.webp",
+          "legacyPath": "stickers/cute_face_2/Group-20.webp"
+        },
+        {
+          "id": "cute-face-2-Group-21",
+          "url": "albums/cute-face-2/Group-21.webp",
+          "legacyPath": "stickers/cute_face_2/Group-21.webp"
+        },
+        {
+          "id": "cute-face-2-Group-22",
+          "url": "albums/cute-face-2/Group-22.webp",
+          "legacyPath": "stickers/cute_face_2/Group-22.webp"
+        },
+        {
+          "id": "cute-face-2-Group-23",
+          "url": "albums/cute-face-2/Group-23.webp",
+          "legacyPath": "stickers/cute_face_2/Group-23.webp"
+        },
+        {
+          "id": "cute-face-2-Group-3",
+          "url": "albums/cute-face-2/Group-3.webp",
+          "legacyPath": "stickers/cute_face_2/Group-3.webp"
+        },
+        {
+          "id": "cute-face-2-Group-4",
+          "url": "albums/cute-face-2/Group-4.webp",
+          "legacyPath": "stickers/cute_face_2/Group-4.webp"
+        },
+        {
+          "id": "cute-face-2-Group-5",
+          "url": "albums/cute-face-2/Group-5.webp",
+          "legacyPath": "stickers/cute_face_2/Group-5.webp"
+        },
+        {
+          "id": "cute-face-2-Group-6",
+          "url": "albums/cute-face-2/Group-6.webp",
+          "legacyPath": "stickers/cute_face_2/Group-6.webp"
+        },
+        {
+          "id": "cute-face-2-Group-7",
+          "url": "albums/cute-face-2/Group-7.webp",
+          "legacyPath": "stickers/cute_face_2/Group-7.webp"
+        },
+        {
+          "id": "cute-face-2-Group-8",
+          "url": "albums/cute-face-2/Group-8.webp",
+          "legacyPath": "stickers/cute_face_2/Group-8.webp"
+        },
+        {
+          "id": "cute-face-2-Group-9",
+          "url": "albums/cute-face-2/Group-9.webp",
+          "legacyPath": "stickers/cute_face_2/Group-9.webp"
+        },
+        {
+          "id": "cute-face-2-Group",
+          "url": "albums/cute-face-2/Group.webp",
+          "legacyPath": "stickers/cute_face_2/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "dim-sum",
+      "name": "Dim Sum",
+      "icon": "albums/dim-sum/icon.webp",
+      "stickers": [
+        {
+          "id": "dim-sum-Group-1",
+          "url": "albums/dim-sum/Group-1.webp",
+          "legacyPath": "stickers/dim_sum/Group-1.webp"
+        },
+        {
+          "id": "dim-sum-Group-10",
+          "url": "albums/dim-sum/Group-10.webp",
+          "legacyPath": "stickers/dim_sum/Group-10.webp"
+        },
+        {
+          "id": "dim-sum-Group-11",
+          "url": "albums/dim-sum/Group-11.webp",
+          "legacyPath": "stickers/dim_sum/Group-11.webp"
+        },
+        {
+          "id": "dim-sum-Group-12",
+          "url": "albums/dim-sum/Group-12.webp",
+          "legacyPath": "stickers/dim_sum/Group-12.webp"
+        },
+        {
+          "id": "dim-sum-Group-13",
+          "url": "albums/dim-sum/Group-13.webp",
+          "legacyPath": "stickers/dim_sum/Group-13.webp"
+        },
+        {
+          "id": "dim-sum-Group-14",
+          "url": "albums/dim-sum/Group-14.webp",
+          "legacyPath": "stickers/dim_sum/Group-14.webp"
+        },
+        {
+          "id": "dim-sum-Group-15",
+          "url": "albums/dim-sum/Group-15.webp",
+          "legacyPath": "stickers/dim_sum/Group-15.webp"
+        },
+        {
+          "id": "dim-sum-Group-16",
+          "url": "albums/dim-sum/Group-16.webp",
+          "legacyPath": "stickers/dim_sum/Group-16.webp"
+        },
+        {
+          "id": "dim-sum-Group-17",
+          "url": "albums/dim-sum/Group-17.webp",
+          "legacyPath": "stickers/dim_sum/Group-17.webp"
+        },
+        {
+          "id": "dim-sum-Group-18",
+          "url": "albums/dim-sum/Group-18.webp",
+          "legacyPath": "stickers/dim_sum/Group-18.webp"
+        },
+        {
+          "id": "dim-sum-Group-19",
+          "url": "albums/dim-sum/Group-19.webp",
+          "legacyPath": "stickers/dim_sum/Group-19.webp"
+        },
+        {
+          "id": "dim-sum-Group-2",
+          "url": "albums/dim-sum/Group-2.webp",
+          "legacyPath": "stickers/dim_sum/Group-2.webp"
+        },
+        {
+          "id": "dim-sum-Group-3",
+          "url": "albums/dim-sum/Group-3.webp",
+          "legacyPath": "stickers/dim_sum/Group-3.webp"
+        },
+        {
+          "id": "dim-sum-Group-4",
+          "url": "albums/dim-sum/Group-4.webp",
+          "legacyPath": "stickers/dim_sum/Group-4.webp"
+        },
+        {
+          "id": "dim-sum-Group-5",
+          "url": "albums/dim-sum/Group-5.webp",
+          "legacyPath": "stickers/dim_sum/Group-5.webp"
+        },
+        {
+          "id": "dim-sum-Group-6",
+          "url": "albums/dim-sum/Group-6.webp",
+          "legacyPath": "stickers/dim_sum/Group-6.webp"
+        },
+        {
+          "id": "dim-sum-Group-7",
+          "url": "albums/dim-sum/Group-7.webp",
+          "legacyPath": "stickers/dim_sum/Group-7.webp"
+        },
+        {
+          "id": "dim-sum-Group-8",
+          "url": "albums/dim-sum/Group-8.webp",
+          "legacyPath": "stickers/dim_sum/Group-8.webp"
+        },
+        {
+          "id": "dim-sum-Group-9",
+          "url": "albums/dim-sum/Group-9.webp",
+          "legacyPath": "stickers/dim_sum/Group-9.webp"
+        },
+        {
+          "id": "dim-sum-Group",
+          "url": "albums/dim-sum/Group.webp",
+          "legacyPath": "stickers/dim_sum/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "emoji",
+      "name": "Emoji",
+      "icon": "albums/emoji/icon.webp",
+      "stickers": [
+        {
+          "id": "emoji-1",
+          "url": "albums/emoji/1.webp",
+          "legacyPath": "stickers/emoji/1.webp"
+        },
+        {
+          "id": "emoji-10",
+          "url": "albums/emoji/10.webp",
+          "legacyPath": "stickers/emoji/10.webp"
+        },
+        {
+          "id": "emoji-11",
+          "url": "albums/emoji/11.webp",
+          "legacyPath": "stickers/emoji/11.webp"
+        },
+        {
+          "id": "emoji-12",
+          "url": "albums/emoji/12.webp",
+          "legacyPath": "stickers/emoji/12.webp"
+        },
+        {
+          "id": "emoji-13",
+          "url": "albums/emoji/13.webp",
+          "legacyPath": "stickers/emoji/13.webp"
+        },
+        {
+          "id": "emoji-14",
+          "url": "albums/emoji/14.webp",
+          "legacyPath": "stickers/emoji/14.webp"
+        },
+        {
+          "id": "emoji-15",
+          "url": "albums/emoji/15.webp",
+          "legacyPath": "stickers/emoji/15.webp"
+        },
+        {
+          "id": "emoji-16",
+          "url": "albums/emoji/16.webp",
+          "legacyPath": "stickers/emoji/16.webp"
+        },
+        {
+          "id": "emoji-17",
+          "url": "albums/emoji/17.webp",
+          "legacyPath": "stickers/emoji/17.webp"
+        },
+        {
+          "id": "emoji-18",
+          "url": "albums/emoji/18.webp",
+          "legacyPath": "stickers/emoji/18.webp"
+        },
+        {
+          "id": "emoji-19",
+          "url": "albums/emoji/19.webp",
+          "legacyPath": "stickers/emoji/19.webp"
+        },
+        {
+          "id": "emoji-2",
+          "url": "albums/emoji/2.webp",
+          "legacyPath": "stickers/emoji/2.webp"
+        },
+        {
+          "id": "emoji-20",
+          "url": "albums/emoji/20.webp",
+          "legacyPath": "stickers/emoji/20.webp"
+        },
+        {
+          "id": "emoji-21",
+          "url": "albums/emoji/21.webp",
+          "legacyPath": "stickers/emoji/21.webp"
+        },
+        {
+          "id": "emoji-22",
+          "url": "albums/emoji/22.webp",
+          "legacyPath": "stickers/emoji/22.webp"
+        },
+        {
+          "id": "emoji-23",
+          "url": "albums/emoji/23.webp",
+          "legacyPath": "stickers/emoji/23.webp"
+        },
+        {
+          "id": "emoji-24",
+          "url": "albums/emoji/24.webp",
+          "legacyPath": "stickers/emoji/24.webp"
+        },
+        {
+          "id": "emoji-25",
+          "url": "albums/emoji/25.webp",
+          "legacyPath": "stickers/emoji/25.webp"
+        },
+        {
+          "id": "emoji-26",
+          "url": "albums/emoji/26.webp",
+          "legacyPath": "stickers/emoji/26.webp"
+        },
+        {
+          "id": "emoji-3",
+          "url": "albums/emoji/3.webp",
+          "legacyPath": "stickers/emoji/3.webp"
+        },
+        {
+          "id": "emoji-4",
+          "url": "albums/emoji/4.webp",
+          "legacyPath": "stickers/emoji/4.webp"
+        },
+        {
+          "id": "emoji-5",
+          "url": "albums/emoji/5.webp",
+          "legacyPath": "stickers/emoji/5.webp"
+        },
+        {
+          "id": "emoji-6",
+          "url": "albums/emoji/6.webp",
+          "legacyPath": "stickers/emoji/6.webp"
+        },
+        {
+          "id": "emoji-7",
+          "url": "albums/emoji/7.webp",
+          "legacyPath": "stickers/emoji/7.webp"
+        },
+        {
+          "id": "emoji-8",
+          "url": "albums/emoji/8.webp",
+          "legacyPath": "stickers/emoji/8.webp"
+        },
+        {
+          "id": "emoji-9",
+          "url": "albums/emoji/9.webp",
+          "legacyPath": "stickers/emoji/9.webp"
+        },
+        {
+          "id": "emoji-angry1",
+          "url": "albums/emoji/angry1.webp",
+          "legacyPath": "stickers/emoji/angry1.webp"
+        },
+        {
+          "id": "emoji-angry2",
+          "url": "albums/emoji/angry2.webp",
+          "legacyPath": "stickers/emoji/angry2.webp"
+        },
+        {
+          "id": "emoji-angry3",
+          "url": "albums/emoji/angry3.webp",
+          "legacyPath": "stickers/emoji/angry3.webp"
+        },
+        {
+          "id": "emoji-angry4",
+          "url": "albums/emoji/angry4.webp",
+          "legacyPath": "stickers/emoji/angry4.webp"
+        }
+      ]
+    },
+    {
+      "id": "glasses",
+      "name": "Glasses",
+      "icon": "albums/glasses/icon.webp",
+      "stickers": [
+        {
+          "id": "glasses-glasses",
+          "url": "albums/glasses/glasses.webp",
+          "legacyPath": "stickers/glasses/glasses.webp"
+        },
+        {
+          "id": "glasses-glasses1",
+          "url": "albums/glasses/glasses1.webp",
+          "legacyPath": "stickers/glasses/glasses1.webp"
+        },
+        {
+          "id": "glasses-glasses10",
+          "url": "albums/glasses/glasses10.webp",
+          "legacyPath": "stickers/glasses/glasses10.webp"
+        },
+        {
+          "id": "glasses-glasses11",
+          "url": "albums/glasses/glasses11.webp",
+          "legacyPath": "stickers/glasses/glasses11.webp"
+        },
+        {
+          "id": "glasses-glasses12",
+          "url": "albums/glasses/glasses12.webp",
+          "legacyPath": "stickers/glasses/glasses12.webp"
+        },
+        {
+          "id": "glasses-glasses13",
+          "url": "albums/glasses/glasses13.webp",
+          "legacyPath": "stickers/glasses/glasses13.webp"
+        },
+        {
+          "id": "glasses-glasses14",
+          "url": "albums/glasses/glasses14.webp",
+          "legacyPath": "stickers/glasses/glasses14.webp"
+        },
+        {
+          "id": "glasses-glasses15",
+          "url": "albums/glasses/glasses15.webp",
+          "legacyPath": "stickers/glasses/glasses15.webp"
+        },
+        {
+          "id": "glasses-glasses16",
+          "url": "albums/glasses/glasses16.webp",
+          "legacyPath": "stickers/glasses/glasses16.webp"
+        },
+        {
+          "id": "glasses-glasses17",
+          "url": "albums/glasses/glasses17.webp",
+          "legacyPath": "stickers/glasses/glasses17.webp"
+        },
+        {
+          "id": "glasses-glasses18",
+          "url": "albums/glasses/glasses18.webp",
+          "legacyPath": "stickers/glasses/glasses18.webp"
+        },
+        {
+          "id": "glasses-glasses19",
+          "url": "albums/glasses/glasses19.webp",
+          "legacyPath": "stickers/glasses/glasses19.webp"
+        },
+        {
+          "id": "glasses-glasses2",
+          "url": "albums/glasses/glasses2.webp",
+          "legacyPath": "stickers/glasses/glasses2.webp"
+        },
+        {
+          "id": "glasses-glasses3",
+          "url": "albums/glasses/glasses3.webp",
+          "legacyPath": "stickers/glasses/glasses3.webp"
+        },
+        {
+          "id": "glasses-glasses4",
+          "url": "albums/glasses/glasses4.webp",
+          "legacyPath": "stickers/glasses/glasses4.webp"
+        },
+        {
+          "id": "glasses-glasses5",
+          "url": "albums/glasses/glasses5.webp",
+          "legacyPath": "stickers/glasses/glasses5.webp"
+        },
+        {
+          "id": "glasses-glasses6",
+          "url": "albums/glasses/glasses6.webp",
+          "legacyPath": "stickers/glasses/glasses6.webp"
+        },
+        {
+          "id": "glasses-glasses7",
+          "url": "albums/glasses/glasses7.webp",
+          "legacyPath": "stickers/glasses/glasses7.webp"
+        },
+        {
+          "id": "glasses-glasses8",
+          "url": "albums/glasses/glasses8.webp",
+          "legacyPath": "stickers/glasses/glasses8.webp"
+        },
+        {
+          "id": "glasses-glasses9",
+          "url": "albums/glasses/glasses9.webp",
+          "legacyPath": "stickers/glasses/glasses9.webp"
+        }
+      ]
+    },
+    {
+      "id": "hat",
+      "name": "Hat",
+      "icon": "albums/hat/icon.webp",
+      "stickers": [
+        {
+          "id": "hat-hat1",
+          "url": "albums/hat/hat1.webp",
+          "legacyPath": "stickers/hat/hat1.webp"
+        },
+        {
+          "id": "hat-hat10",
+          "url": "albums/hat/hat10.webp",
+          "legacyPath": "stickers/hat/hat10.webp"
+        },
+        {
+          "id": "hat-hat11",
+          "url": "albums/hat/hat11.webp",
+          "legacyPath": "stickers/hat/hat11.webp"
+        },
+        {
+          "id": "hat-hat12",
+          "url": "albums/hat/hat12.webp",
+          "legacyPath": "stickers/hat/hat12.webp"
+        },
+        {
+          "id": "hat-hat13",
+          "url": "albums/hat/hat13.webp",
+          "legacyPath": "stickers/hat/hat13.webp"
+        },
+        {
+          "id": "hat-hat14",
+          "url": "albums/hat/hat14.webp",
+          "legacyPath": "stickers/hat/hat14.webp"
+        },
+        {
+          "id": "hat-hat15",
+          "url": "albums/hat/hat15.webp",
+          "legacyPath": "stickers/hat/hat15.webp"
+        },
+        {
+          "id": "hat-hat16",
+          "url": "albums/hat/hat16.webp",
+          "legacyPath": "stickers/hat/hat16.webp"
+        },
+        {
+          "id": "hat-hat17",
+          "url": "albums/hat/hat17.webp",
+          "legacyPath": "stickers/hat/hat17.webp"
+        },
+        {
+          "id": "hat-hat18",
+          "url": "albums/hat/hat18.webp",
+          "legacyPath": "stickers/hat/hat18.webp"
+        },
+        {
+          "id": "hat-hat19",
+          "url": "albums/hat/hat19.webp",
+          "legacyPath": "stickers/hat/hat19.webp"
+        },
+        {
+          "id": "hat-hat2",
+          "url": "albums/hat/hat2.webp",
+          "legacyPath": "stickers/hat/hat2.webp"
+        },
+        {
+          "id": "hat-hat20",
+          "url": "albums/hat/hat20.webp",
+          "legacyPath": "stickers/hat/hat20.webp"
+        },
+        {
+          "id": "hat-hat21",
+          "url": "albums/hat/hat21.webp",
+          "legacyPath": "stickers/hat/hat21.webp"
+        },
+        {
+          "id": "hat-hat22",
+          "url": "albums/hat/hat22.webp",
+          "legacyPath": "stickers/hat/hat22.webp"
+        },
+        {
+          "id": "hat-hat23",
+          "url": "albums/hat/hat23.webp",
+          "legacyPath": "stickers/hat/hat23.webp"
+        },
+        {
+          "id": "hat-hat24",
+          "url": "albums/hat/hat24.webp",
+          "legacyPath": "stickers/hat/hat24.webp"
+        },
+        {
+          "id": "hat-hat3",
+          "url": "albums/hat/hat3.webp",
+          "legacyPath": "stickers/hat/hat3.webp"
+        },
+        {
+          "id": "hat-hat4",
+          "url": "albums/hat/hat4.webp",
+          "legacyPath": "stickers/hat/hat4.webp"
+        },
+        {
+          "id": "hat-hat5",
+          "url": "albums/hat/hat5.webp",
+          "legacyPath": "stickers/hat/hat5.webp"
+        },
+        {
+          "id": "hat-hat6",
+          "url": "albums/hat/hat6.webp",
+          "legacyPath": "stickers/hat/hat6.webp"
+        },
+        {
+          "id": "hat-hat7",
+          "url": "albums/hat/hat7.webp",
+          "legacyPath": "stickers/hat/hat7.webp"
+        },
+        {
+          "id": "hat-hat8",
+          "url": "albums/hat/hat8.webp",
+          "legacyPath": "stickers/hat/hat8.webp"
+        },
+        {
+          "id": "hat-hat9",
+          "url": "albums/hat/hat9.webp",
+          "legacyPath": "stickers/hat/hat9.webp"
+        }
+      ]
+    },
+    {
+      "id": "holiday",
+      "name": "Holiday",
+      "icon": "albums/holiday/icon.webp",
+      "stickers": [
+        {
+          "id": "holiday-birthday",
+          "url": "albums/holiday/birthday.webp",
+          "legacyPath": "stickers/holiday/birthday.webp"
+        },
+        {
+          "id": "holiday-birthday1",
+          "url": "albums/holiday/birthday1.webp",
+          "legacyPath": "stickers/holiday/birthday1.webp"
+        },
+        {
+          "id": "holiday-birthday2",
+          "url": "albums/holiday/birthday2.webp",
+          "legacyPath": "stickers/holiday/birthday2.webp"
+        },
+        {
+          "id": "holiday-birthday3",
+          "url": "albums/holiday/birthday3.webp",
+          "legacyPath": "stickers/holiday/birthday3.webp"
+        },
+        {
+          "id": "holiday-birthday4",
+          "url": "albums/holiday/birthday4.webp",
+          "legacyPath": "stickers/holiday/birthday4.webp"
+        },
+        {
+          "id": "holiday-birthday5",
+          "url": "albums/holiday/birthday5.webp",
+          "legacyPath": "stickers/holiday/birthday5.webp"
+        },
+        {
+          "id": "holiday-birthday6",
+          "url": "albums/holiday/birthday6.webp",
+          "legacyPath": "stickers/holiday/birthday6.webp"
+        },
+        {
+          "id": "holiday-birthday7",
+          "url": "albums/holiday/birthday7.webp",
+          "legacyPath": "stickers/holiday/birthday7.webp"
+        },
+        {
+          "id": "holiday-birthday8",
+          "url": "albums/holiday/birthday8.webp",
+          "legacyPath": "stickers/holiday/birthday8.webp"
+        },
+        {
+          "id": "holiday-birthday9",
+          "url": "albums/holiday/birthday9.webp",
+          "legacyPath": "stickers/holiday/birthday9.webp"
+        },
+        {
+          "id": "holiday-halo",
+          "url": "albums/holiday/halo.webp",
+          "legacyPath": "stickers/holiday/halo.webp"
+        },
+        {
+          "id": "holiday-halo1",
+          "url": "albums/holiday/halo1.webp",
+          "legacyPath": "stickers/holiday/halo1.webp"
+        },
+        {
+          "id": "holiday-halo10",
+          "url": "albums/holiday/halo10.webp",
+          "legacyPath": "stickers/holiday/halo10.webp"
+        },
+        {
+          "id": "holiday-halo11",
+          "url": "albums/holiday/halo11.webp",
+          "legacyPath": "stickers/holiday/halo11.webp"
+        },
+        {
+          "id": "holiday-halo12",
+          "url": "albums/holiday/halo12.webp",
+          "legacyPath": "stickers/holiday/halo12.webp"
+        },
+        {
+          "id": "holiday-halo2",
+          "url": "albums/holiday/halo2.webp",
+          "legacyPath": "stickers/holiday/halo2.webp"
+        },
+        {
+          "id": "holiday-halo3",
+          "url": "albums/holiday/halo3.webp",
+          "legacyPath": "stickers/holiday/halo3.webp"
+        },
+        {
+          "id": "holiday-halo4",
+          "url": "albums/holiday/halo4.webp",
+          "legacyPath": "stickers/holiday/halo4.webp"
+        },
+        {
+          "id": "holiday-halo5",
+          "url": "albums/holiday/halo5.webp",
+          "legacyPath": "stickers/holiday/halo5.webp"
+        },
+        {
+          "id": "holiday-halo6",
+          "url": "albums/holiday/halo6.webp",
+          "legacyPath": "stickers/holiday/halo6.webp"
+        },
+        {
+          "id": "holiday-halo7",
+          "url": "albums/holiday/halo7.webp",
+          "legacyPath": "stickers/holiday/halo7.webp"
+        },
+        {
+          "id": "holiday-halo8",
+          "url": "albums/holiday/halo8.webp",
+          "legacyPath": "stickers/holiday/halo8.webp"
+        },
+        {
+          "id": "holiday-halo9",
+          "url": "albums/holiday/halo9.webp",
+          "legacyPath": "stickers/holiday/halo9.webp"
+        },
+        {
+          "id": "holiday-newyear",
+          "url": "albums/holiday/newyear.webp",
+          "legacyPath": "stickers/holiday/newyear.webp"
+        },
+        {
+          "id": "holiday-newyear1",
+          "url": "albums/holiday/newyear1.webp",
+          "legacyPath": "stickers/holiday/newyear1.webp"
+        },
+        {
+          "id": "holiday-newyear2",
+          "url": "albums/holiday/newyear2.webp",
+          "legacyPath": "stickers/holiday/newyear2.webp"
+        },
+        {
+          "id": "holiday-newyear3",
+          "url": "albums/holiday/newyear3.webp",
+          "legacyPath": "stickers/holiday/newyear3.webp"
+        },
+        {
+          "id": "holiday-xmas",
+          "url": "albums/holiday/xmas.webp",
+          "legacyPath": "stickers/holiday/xmas.webp"
+        },
+        {
+          "id": "holiday-xmas10",
+          "url": "albums/holiday/xmas10.webp",
+          "legacyPath": "stickers/holiday/xmas10.webp"
+        },
+        {
+          "id": "holiday-xmas11",
+          "url": "albums/holiday/xmas11.webp",
+          "legacyPath": "stickers/holiday/xmas11.webp"
+        },
+        {
+          "id": "holiday-xmas12",
+          "url": "albums/holiday/xmas12.webp",
+          "legacyPath": "stickers/holiday/xmas12.webp"
+        },
+        {
+          "id": "holiday-xmas13",
+          "url": "albums/holiday/xmas13.webp",
+          "legacyPath": "stickers/holiday/xmas13.webp"
+        },
+        {
+          "id": "holiday-xmas14",
+          "url": "albums/holiday/xmas14.webp",
+          "legacyPath": "stickers/holiday/xmas14.webp"
+        },
+        {
+          "id": "holiday-xmas15",
+          "url": "albums/holiday/xmas15.webp",
+          "legacyPath": "stickers/holiday/xmas15.webp"
+        },
+        {
+          "id": "holiday-xmas16",
+          "url": "albums/holiday/xmas16.webp",
+          "legacyPath": "stickers/holiday/xmas16.webp"
+        },
+        {
+          "id": "holiday-xmas17",
+          "url": "albums/holiday/xmas17.webp",
+          "legacyPath": "stickers/holiday/xmas17.webp"
+        },
+        {
+          "id": "holiday-xmas18",
+          "url": "albums/holiday/xmas18.webp",
+          "legacyPath": "stickers/holiday/xmas18.webp"
+        },
+        {
+          "id": "holiday-xmas19",
+          "url": "albums/holiday/xmas19.webp",
+          "legacyPath": "stickers/holiday/xmas19.webp"
+        },
+        {
+          "id": "holiday-xmas2",
+          "url": "albums/holiday/xmas2.webp",
+          "legacyPath": "stickers/holiday/xmas2.webp"
+        },
+        {
+          "id": "holiday-xmas20",
+          "url": "albums/holiday/xmas20.webp",
+          "legacyPath": "stickers/holiday/xmas20.webp"
+        },
+        {
+          "id": "holiday-xmas21",
+          "url": "albums/holiday/xmas21.webp",
+          "legacyPath": "stickers/holiday/xmas21.webp"
+        },
+        {
+          "id": "holiday-xmas3",
+          "url": "albums/holiday/xmas3.webp",
+          "legacyPath": "stickers/holiday/xmas3.webp"
+        },
+        {
+          "id": "holiday-xmas4",
+          "url": "albums/holiday/xmas4.webp",
+          "legacyPath": "stickers/holiday/xmas4.webp"
+        },
+        {
+          "id": "holiday-xmas5",
+          "url": "albums/holiday/xmas5.webp",
+          "legacyPath": "stickers/holiday/xmas5.webp"
+        },
+        {
+          "id": "holiday-xmas6",
+          "url": "albums/holiday/xmas6.webp",
+          "legacyPath": "stickers/holiday/xmas6.webp"
+        },
+        {
+          "id": "holiday-xmas7",
+          "url": "albums/holiday/xmas7.webp",
+          "legacyPath": "stickers/holiday/xmas7.webp"
+        },
+        {
+          "id": "holiday-xmas8",
+          "url": "albums/holiday/xmas8.webp",
+          "legacyPath": "stickers/holiday/xmas8.webp"
+        },
+        {
+          "id": "holiday-xmas9",
+          "url": "albums/holiday/xmas9.webp",
+          "legacyPath": "stickers/holiday/xmas9.webp"
+        }
+      ]
+    },
+    {
+      "id": "kawaii-rabbit",
+      "name": "Kawaii Rabbit",
+      "icon": "albums/kawaii-rabbit/icon.webp",
+      "stickers": [
+        {
+          "id": "kawaii-rabbit-Group-1",
+          "url": "albums/kawaii-rabbit/Group-1.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-1.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group-2",
+          "url": "albums/kawaii-rabbit/Group-2.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-2.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group-3",
+          "url": "albums/kawaii-rabbit/Group-3.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-3.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group-4",
+          "url": "albums/kawaii-rabbit/Group-4.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-4.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group-5",
+          "url": "albums/kawaii-rabbit/Group-5.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-5.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group-6",
+          "url": "albums/kawaii-rabbit/Group-6.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-6.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group-7",
+          "url": "albums/kawaii-rabbit/Group-7.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group-7.webp"
+        },
+        {
+          "id": "kawaii-rabbit-Group",
+          "url": "albums/kawaii-rabbit/Group.webp",
+          "legacyPath": "stickers/kawaii_rabbit/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "meme",
+      "name": "Meme",
+      "icon": "albums/meme/icon.webp",
+      "stickers": [
+        {
+          "id": "meme-meme1",
+          "url": "albums/meme/meme1.webp",
+          "legacyPath": "stickers/meme/meme1.webp"
+        },
+        {
+          "id": "meme-meme10",
+          "url": "albums/meme/meme10.webp",
+          "legacyPath": "stickers/meme/meme10.webp"
+        },
+        {
+          "id": "meme-meme11",
+          "url": "albums/meme/meme11.webp",
+          "legacyPath": "stickers/meme/meme11.webp"
+        },
+        {
+          "id": "meme-meme12",
+          "url": "albums/meme/meme12.webp",
+          "legacyPath": "stickers/meme/meme12.webp"
+        },
+        {
+          "id": "meme-meme13",
+          "url": "albums/meme/meme13.webp",
+          "legacyPath": "stickers/meme/meme13.webp"
+        },
+        {
+          "id": "meme-meme14",
+          "url": "albums/meme/meme14.webp",
+          "legacyPath": "stickers/meme/meme14.webp"
+        },
+        {
+          "id": "meme-meme15",
+          "url": "albums/meme/meme15.webp",
+          "legacyPath": "stickers/meme/meme15.webp"
+        },
+        {
+          "id": "meme-meme16",
+          "url": "albums/meme/meme16.webp",
+          "legacyPath": "stickers/meme/meme16.webp"
+        },
+        {
+          "id": "meme-meme17",
+          "url": "albums/meme/meme17.webp",
+          "legacyPath": "stickers/meme/meme17.webp"
+        },
+        {
+          "id": "meme-meme18",
+          "url": "albums/meme/meme18.webp",
+          "legacyPath": "stickers/meme/meme18.webp"
+        },
+        {
+          "id": "meme-meme2",
+          "url": "albums/meme/meme2.webp",
+          "legacyPath": "stickers/meme/meme2.webp"
+        },
+        {
+          "id": "meme-meme3",
+          "url": "albums/meme/meme3.webp",
+          "legacyPath": "stickers/meme/meme3.webp"
+        },
+        {
+          "id": "meme-meme4",
+          "url": "albums/meme/meme4.webp",
+          "legacyPath": "stickers/meme/meme4.webp"
+        },
+        {
+          "id": "meme-meme5",
+          "url": "albums/meme/meme5.webp",
+          "legacyPath": "stickers/meme/meme5.webp"
+        },
+        {
+          "id": "meme-meme6",
+          "url": "albums/meme/meme6.webp",
+          "legacyPath": "stickers/meme/meme6.webp"
+        },
+        {
+          "id": "meme-meme7",
+          "url": "albums/meme/meme7.webp",
+          "legacyPath": "stickers/meme/meme7.webp"
+        },
+        {
+          "id": "meme-meme8",
+          "url": "albums/meme/meme8.webp",
+          "legacyPath": "stickers/meme/meme8.webp"
+        },
+        {
+          "id": "meme-meme9",
+          "url": "albums/meme/meme9.webp",
+          "legacyPath": "stickers/meme/meme9.webp"
+        }
+      ]
+    },
+    {
+      "id": "molang",
+      "name": "Molang",
+      "icon": "albums/molang/icon.webp",
+      "stickers": [
+        {
+          "id": "molang-Group-1",
+          "url": "albums/molang/Group-1.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-1.webp"
+        },
+        {
+          "id": "molang-Group-2",
+          "url": "albums/molang/Group-2.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-2.webp"
+        },
+        {
+          "id": "molang-Group-3",
+          "url": "albums/molang/Group-3.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-3.webp"
+        },
+        {
+          "id": "molang-Group-4",
+          "url": "albums/molang/Group-4.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-4.webp"
+        },
+        {
+          "id": "molang-Group-5",
+          "url": "albums/molang/Group-5.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-5.webp"
+        },
+        {
+          "id": "molang-Group-6",
+          "url": "albums/molang/Group-6.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-6.webp"
+        },
+        {
+          "id": "molang-Group-7",
+          "url": "albums/molang/Group-7.webp",
+          "legacyPath": "stickers/molang_bunnies/Group-7.webp"
+        },
+        {
+          "id": "molang-Group",
+          "url": "albums/molang/Group.webp",
+          "legacyPath": "stickers/molang_bunnies/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "icon": "albums/other/icon.webp",
+      "stickers": [
+        {
+          "id": "other-angle",
+          "url": "albums/other/angle.webp",
+          "legacyPath": "stickers/other/angle.webp"
+        },
+        {
+          "id": "other-angry_symbol",
+          "url": "albums/other/angry_symbol.webp",
+          "legacyPath": "stickers/other/angry_symbol.webp"
+        },
+        {
+          "id": "other-beard",
+          "url": "albums/other/beard.webp",
+          "legacyPath": "stickers/other/beard.webp"
+        },
+        {
+          "id": "other-blush_pink",
+          "url": "albums/other/blush_pink.webp",
+          "legacyPath": "stickers/other/blush_pink.webp"
+        },
+        {
+          "id": "other-blush_pink1",
+          "url": "albums/other/blush_pink1.webp",
+          "legacyPath": "stickers/other/blush_pink1.webp"
+        },
+        {
+          "id": "other-blush_pink2",
+          "url": "albums/other/blush_pink2.webp",
+          "legacyPath": "stickers/other/blush_pink2.webp"
+        },
+        {
+          "id": "other-blush_pink3",
+          "url": "albums/other/blush_pink3.webp",
+          "legacyPath": "stickers/other/blush_pink3.webp"
+        },
+        {
+          "id": "other-blush_pink4",
+          "url": "albums/other/blush_pink4.webp",
+          "legacyPath": "stickers/other/blush_pink4.webp"
+        },
+        {
+          "id": "other-bow2",
+          "url": "albums/other/bow2.webp",
+          "legacyPath": "stickers/other/bow2.webp"
+        },
+        {
+          "id": "other-bow3",
+          "url": "albums/other/bow3.webp",
+          "legacyPath": "stickers/other/bow3.webp"
+        },
+        {
+          "id": "other-bow4",
+          "url": "albums/other/bow4.webp",
+          "legacyPath": "stickers/other/bow4.webp"
+        },
+        {
+          "id": "other-crown1",
+          "url": "albums/other/crown1.webp",
+          "legacyPath": "stickers/other/crown1.webp"
+        },
+        {
+          "id": "other-crown2",
+          "url": "albums/other/crown2.webp",
+          "legacyPath": "stickers/other/crown2.webp"
+        },
+        {
+          "id": "other-cry1",
+          "url": "albums/other/cry1.webp",
+          "legacyPath": "stickers/other/cry1.webp"
+        },
+        {
+          "id": "other-cry2",
+          "url": "albums/other/cry2.webp",
+          "legacyPath": "stickers/other/cry2.webp"
+        },
+        {
+          "id": "other-cry3",
+          "url": "albums/other/cry3.webp",
+          "legacyPath": "stickers/other/cry3.webp"
+        },
+        {
+          "id": "other-cry4",
+          "url": "albums/other/cry4.webp",
+          "legacyPath": "stickers/other/cry4.webp"
+        },
+        {
+          "id": "other-cry5",
+          "url": "albums/other/cry5.webp",
+          "legacyPath": "stickers/other/cry5.webp"
+        },
+        {
+          "id": "other-evil",
+          "url": "albums/other/evil.webp",
+          "legacyPath": "stickers/other/evil.webp"
+        },
+        {
+          "id": "other-evil1",
+          "url": "albums/other/evil1.webp",
+          "legacyPath": "stickers/other/evil1.webp"
+        },
+        {
+          "id": "other-evil2",
+          "url": "albums/other/evil2.webp",
+          "legacyPath": "stickers/other/evil2.webp"
+        },
+        {
+          "id": "other-hand",
+          "url": "albums/other/hand.webp",
+          "legacyPath": "stickers/other/hand.webp"
+        },
+        {
+          "id": "other-hand2",
+          "url": "albums/other/hand2.webp",
+          "legacyPath": "stickers/other/hand2.webp"
+        },
+        {
+          "id": "other-horn3",
+          "url": "albums/other/horn3.webp",
+          "legacyPath": "stickers/other/horn3.webp"
+        },
+        {
+          "id": "other-horn4",
+          "url": "albums/other/horn4.webp",
+          "legacyPath": "stickers/other/horn4.webp"
+        },
+        {
+          "id": "other-mask",
+          "url": "albums/other/mask.webp",
+          "legacyPath": "stickers/other/mask.webp"
+        },
+        {
+          "id": "other-mask2",
+          "url": "albums/other/mask2.webp",
+          "legacyPath": "stickers/other/mask2.webp"
+        },
+        {
+          "id": "other-mickey",
+          "url": "albums/other/mickey.webp",
+          "legacyPath": "stickers/other/mickey.webp"
+        },
+        {
+          "id": "other-necklace1",
+          "url": "albums/other/necklace1.webp",
+          "legacyPath": "stickers/other/necklace1.webp"
+        },
+        {
+          "id": "other-necklace3",
+          "url": "albums/other/necklace3.webp",
+          "legacyPath": "stickers/other/necklace3.webp"
+        },
+        {
+          "id": "other-pin1",
+          "url": "albums/other/pin1.webp",
+          "legacyPath": "stickers/other/pin1.webp"
+        },
+        {
+          "id": "other-rabbit",
+          "url": "albums/other/rabbit.webp",
+          "legacyPath": "stickers/other/rabbit.webp"
+        },
+        {
+          "id": "other-ring1",
+          "url": "albums/other/ring1.webp",
+          "legacyPath": "stickers/other/ring1.webp"
+        },
+        {
+          "id": "other-santa",
+          "url": "albums/other/santa.webp",
+          "legacyPath": "stickers/other/santa.webp"
+        },
+        {
+          "id": "other-slay1",
+          "url": "albums/other/slay1.webp",
+          "legacyPath": "stickers/other/slay1.webp"
+        },
+        {
+          "id": "other-slay2",
+          "url": "albums/other/slay2.webp",
+          "legacyPath": "stickers/other/slay2.webp"
+        },
+        {
+          "id": "other-slay3",
+          "url": "albums/other/slay3.webp",
+          "legacyPath": "stickers/other/slay3.webp"
+        },
+        {
+          "id": "other-tie1",
+          "url": "albums/other/tie1.webp",
+          "legacyPath": "stickers/other/tie1.webp"
+        },
+        {
+          "id": "other-tie2",
+          "url": "albums/other/tie2.webp",
+          "legacyPath": "stickers/other/tie2.webp"
+        },
+        {
+          "id": "other-turban",
+          "url": "albums/other/turban.webp",
+          "legacyPath": "stickers/other/turban.webp"
+        },
+        {
+          "id": "other-turban2",
+          "url": "albums/other/turban2.webp",
+          "legacyPath": "stickers/other/turban2.webp"
+        },
+        {
+          "id": "other-wing",
+          "url": "albums/other/wing.webp",
+          "legacyPath": "stickers/other/wing.webp"
+        }
+      ]
+    },
+    {
+      "id": "quby",
+      "name": "Quby",
+      "icon": "albums/quby/icon.webp",
+      "stickers": [
+        {
+          "id": "quby-0",
+          "url": "albums/quby/0.webp",
+          "legacyPath": "stickers/quby_deluxe/0.webp"
+        },
+        {
+          "id": "quby-1",
+          "url": "albums/quby/1.webp",
+          "legacyPath": "stickers/quby_deluxe/1.webp"
+        },
+        {
+          "id": "quby-11",
+          "url": "albums/quby/11.webp",
+          "legacyPath": "stickers/quby_deluxe/11.webp"
+        },
+        {
+          "id": "quby-12",
+          "url": "albums/quby/12.webp",
+          "legacyPath": "stickers/quby_deluxe/12.webp"
+        },
+        {
+          "id": "quby-13",
+          "url": "albums/quby/13.webp",
+          "legacyPath": "stickers/quby_deluxe/13.webp"
+        },
+        {
+          "id": "quby-14",
+          "url": "albums/quby/14.webp",
+          "legacyPath": "stickers/quby_deluxe/14.webp"
+        },
+        {
+          "id": "quby-15",
+          "url": "albums/quby/15.webp",
+          "legacyPath": "stickers/quby_deluxe/15.webp"
+        },
+        {
+          "id": "quby-16",
+          "url": "albums/quby/16.webp",
+          "legacyPath": "stickers/quby_deluxe/16.webp"
+        },
+        {
+          "id": "quby-17",
+          "url": "albums/quby/17.webp",
+          "legacyPath": "stickers/quby_deluxe/17.webp"
+        },
+        {
+          "id": "quby-18",
+          "url": "albums/quby/18.webp",
+          "legacyPath": "stickers/quby_deluxe/18.webp"
+        },
+        {
+          "id": "quby-19",
+          "url": "albums/quby/19.webp",
+          "legacyPath": "stickers/quby_deluxe/19.webp"
+        },
+        {
+          "id": "quby-2",
+          "url": "albums/quby/2.webp",
+          "legacyPath": "stickers/quby_deluxe/2.webp"
+        },
+        {
+          "id": "quby-20",
+          "url": "albums/quby/20.webp",
+          "legacyPath": "stickers/quby_deluxe/20.webp"
+        },
+        {
+          "id": "quby-21",
+          "url": "albums/quby/21.webp",
+          "legacyPath": "stickers/quby_deluxe/21.webp"
+        },
+        {
+          "id": "quby-22",
+          "url": "albums/quby/22.webp",
+          "legacyPath": "stickers/quby_deluxe/22.webp"
+        },
+        {
+          "id": "quby-23",
+          "url": "albums/quby/23.webp",
+          "legacyPath": "stickers/quby_deluxe/23.webp"
+        },
+        {
+          "id": "quby-24",
+          "url": "albums/quby/24.webp",
+          "legacyPath": "stickers/quby_deluxe/24.webp"
+        },
+        {
+          "id": "quby-25",
+          "url": "albums/quby/25.webp",
+          "legacyPath": "stickers/quby_deluxe/25.webp"
+        },
+        {
+          "id": "quby-3",
+          "url": "albums/quby/3.webp",
+          "legacyPath": "stickers/quby_deluxe/3.webp"
+        },
+        {
+          "id": "quby-4",
+          "url": "albums/quby/4.webp",
+          "legacyPath": "stickers/quby_deluxe/4.webp"
+        },
+        {
+          "id": "quby-5",
+          "url": "albums/quby/5.webp",
+          "legacyPath": "stickers/quby_deluxe/5.webp"
+        },
+        {
+          "id": "quby-6",
+          "url": "albums/quby/6.webp",
+          "legacyPath": "stickers/quby_deluxe/6.webp"
+        },
+        {
+          "id": "quby-7",
+          "url": "albums/quby/7.webp",
+          "legacyPath": "stickers/quby_deluxe/7.webp"
+        },
+        {
+          "id": "quby-8",
+          "url": "albums/quby/8.webp",
+          "legacyPath": "stickers/quby_deluxe/8.webp"
+        },
+        {
+          "id": "quby-9",
+          "url": "albums/quby/9.webp",
+          "legacyPath": "stickers/quby_deluxe/9.webp"
+        }
+      ]
+    },
+    {
+      "id": "retro",
+      "name": "Retro",
+      "icon": "albums/retro/icon.webp",
+      "stickers": [
+        {
+          "id": "retro-Group 31",
+          "url": "albums/retro/Group 31.webp",
+          "legacyPath": "stickers/retro_vintage/Group 31.webp"
+        },
+        {
+          "id": "retro-Group-1",
+          "url": "albums/retro/Group-1.webp",
+          "legacyPath": "stickers/retro_vintage/Group-1.webp"
+        },
+        {
+          "id": "retro-Group-10",
+          "url": "albums/retro/Group-10.webp",
+          "legacyPath": "stickers/retro_vintage/Group-10.webp"
+        },
+        {
+          "id": "retro-Group-11",
+          "url": "albums/retro/Group-11.webp",
+          "legacyPath": "stickers/retro_vintage/Group-11.webp"
+        },
+        {
+          "id": "retro-Group-12",
+          "url": "albums/retro/Group-12.webp",
+          "legacyPath": "stickers/retro_vintage/Group-12.webp"
+        },
+        {
+          "id": "retro-Group-13",
+          "url": "albums/retro/Group-13.webp",
+          "legacyPath": "stickers/retro_vintage/Group-13.webp"
+        },
+        {
+          "id": "retro-Group-14",
+          "url": "albums/retro/Group-14.webp",
+          "legacyPath": "stickers/retro_vintage/Group-14.webp"
+        },
+        {
+          "id": "retro-Group-15",
+          "url": "albums/retro/Group-15.webp",
+          "legacyPath": "stickers/retro_vintage/Group-15.webp"
+        },
+        {
+          "id": "retro-Group-16",
+          "url": "albums/retro/Group-16.webp",
+          "legacyPath": "stickers/retro_vintage/Group-16.webp"
+        },
+        {
+          "id": "retro-Group-17",
+          "url": "albums/retro/Group-17.webp",
+          "legacyPath": "stickers/retro_vintage/Group-17.webp"
+        },
+        {
+          "id": "retro-Group-18",
+          "url": "albums/retro/Group-18.webp",
+          "legacyPath": "stickers/retro_vintage/Group-18.webp"
+        },
+        {
+          "id": "retro-Group-19",
+          "url": "albums/retro/Group-19.webp",
+          "legacyPath": "stickers/retro_vintage/Group-19.webp"
+        },
+        {
+          "id": "retro-Group-2",
+          "url": "albums/retro/Group-2.webp",
+          "legacyPath": "stickers/retro_vintage/Group-2.webp"
+        },
+        {
+          "id": "retro-Group-20",
+          "url": "albums/retro/Group-20.webp",
+          "legacyPath": "stickers/retro_vintage/Group-20.webp"
+        },
+        {
+          "id": "retro-Group-21",
+          "url": "albums/retro/Group-21.webp",
+          "legacyPath": "stickers/retro_vintage/Group-21.webp"
+        },
+        {
+          "id": "retro-Group-22",
+          "url": "albums/retro/Group-22.webp",
+          "legacyPath": "stickers/retro_vintage/Group-22.webp"
+        },
+        {
+          "id": "retro-Group-23",
+          "url": "albums/retro/Group-23.webp",
+          "legacyPath": "stickers/retro_vintage/Group-23.webp"
+        },
+        {
+          "id": "retro-Group-24",
+          "url": "albums/retro/Group-24.webp",
+          "legacyPath": "stickers/retro_vintage/Group-24.webp"
+        },
+        {
+          "id": "retro-Group-25",
+          "url": "albums/retro/Group-25.webp",
+          "legacyPath": "stickers/retro_vintage/Group-25.webp"
+        },
+        {
+          "id": "retro-Group-26",
+          "url": "albums/retro/Group-26.webp",
+          "legacyPath": "stickers/retro_vintage/Group-26.webp"
+        },
+        {
+          "id": "retro-Group-27",
+          "url": "albums/retro/Group-27.webp",
+          "legacyPath": "stickers/retro_vintage/Group-27.webp"
+        },
+        {
+          "id": "retro-Group-28",
+          "url": "albums/retro/Group-28.webp",
+          "legacyPath": "stickers/retro_vintage/Group-28.webp"
+        },
+        {
+          "id": "retro-Group-3",
+          "url": "albums/retro/Group-3.webp",
+          "legacyPath": "stickers/retro_vintage/Group-3.webp"
+        },
+        {
+          "id": "retro-Group-4",
+          "url": "albums/retro/Group-4.webp",
+          "legacyPath": "stickers/retro_vintage/Group-4.webp"
+        },
+        {
+          "id": "retro-Group-5",
+          "url": "albums/retro/Group-5.webp",
+          "legacyPath": "stickers/retro_vintage/Group-5.webp"
+        },
+        {
+          "id": "retro-Group-6",
+          "url": "albums/retro/Group-6.webp",
+          "legacyPath": "stickers/retro_vintage/Group-6.webp"
+        },
+        {
+          "id": "retro-Group-7",
+          "url": "albums/retro/Group-7.webp",
+          "legacyPath": "stickers/retro_vintage/Group-7.webp"
+        },
+        {
+          "id": "retro-Group-8",
+          "url": "albums/retro/Group-8.webp",
+          "legacyPath": "stickers/retro_vintage/Group-8.webp"
+        },
+        {
+          "id": "retro-Group-9",
+          "url": "albums/retro/Group-9.webp",
+          "legacyPath": "stickers/retro_vintage/Group-9.webp"
+        },
+        {
+          "id": "retro-Group",
+          "url": "albums/retro/Group.webp",
+          "legacyPath": "stickers/retro_vintage/Group.webp"
+        }
+      ]
+    },
+    {
+      "id": "text-bubble",
+      "name": "Text Bubble",
+      "icon": "albums/text-bubble/icon.webp",
+      "stickers": [
+        {
+          "id": "text-bubble-100047",
+          "url": "albums/text-bubble/100047.webp",
+          "legacyPath": "stickers/text_bubble/100047.webp"
+        },
+        {
+          "id": "text-bubble-100047_cover",
+          "url": "albums/text-bubble/100047_cover.webp",
+          "legacyPath": "stickers/text_bubble/100047_cover.webp"
+        },
+        {
+          "id": "text-bubble-100048",
+          "url": "albums/text-bubble/100048.webp",
+          "legacyPath": "stickers/text_bubble/100048.webp"
+        },
+        {
+          "id": "text-bubble-100048_cover",
+          "url": "albums/text-bubble/100048_cover.webp",
+          "legacyPath": "stickers/text_bubble/100048_cover.webp"
+        },
+        {
+          "id": "text-bubble-100049",
+          "url": "albums/text-bubble/100049.webp",
+          "legacyPath": "stickers/text_bubble/100049.webp"
+        },
+        {
+          "id": "text-bubble-100049_cover",
+          "url": "albums/text-bubble/100049_cover.webp",
+          "legacyPath": "stickers/text_bubble/100049_cover.webp"
+        },
+        {
+          "id": "text-bubble-100050",
+          "url": "albums/text-bubble/100050.webp",
+          "legacyPath": "stickers/text_bubble/100050.webp"
+        },
+        {
+          "id": "text-bubble-100050_cover",
+          "url": "albums/text-bubble/100050_cover.webp",
+          "legacyPath": "stickers/text_bubble/100050_cover.webp"
+        },
+        {
+          "id": "text-bubble-100051",
+          "url": "albums/text-bubble/100051.webp",
+          "legacyPath": "stickers/text_bubble/100051.webp"
+        },
+        {
+          "id": "text-bubble-100051_cover",
+          "url": "albums/text-bubble/100051_cover.webp",
+          "legacyPath": "stickers/text_bubble/100051_cover.webp"
+        },
+        {
+          "id": "text-bubble-100052",
+          "url": "albums/text-bubble/100052.webp",
+          "legacyPath": "stickers/text_bubble/100052.webp"
+        },
+        {
+          "id": "text-bubble-100052_cover",
+          "url": "albums/text-bubble/100052_cover.webp",
+          "legacyPath": "stickers/text_bubble/100052_cover.webp"
+        },
+        {
+          "id": "text-bubble-100053",
+          "url": "albums/text-bubble/100053.webp",
+          "legacyPath": "stickers/text_bubble/100053.webp"
+        },
+        {
+          "id": "text-bubble-100053_cover",
+          "url": "albums/text-bubble/100053_cover.webp",
+          "legacyPath": "stickers/text_bubble/100053_cover.webp"
+        },
+        {
+          "id": "text-bubble-100054",
+          "url": "albums/text-bubble/100054.webp",
+          "legacyPath": "stickers/text_bubble/100054.webp"
+        },
+        {
+          "id": "text-bubble-100054_cover",
+          "url": "albums/text-bubble/100054_cover.webp",
+          "legacyPath": "stickers/text_bubble/100054_cover.webp"
+        },
+        {
+          "id": "text-bubble-100055",
+          "url": "albums/text-bubble/100055.webp",
+          "legacyPath": "stickers/text_bubble/100055.webp"
+        },
+        {
+          "id": "text-bubble-100055_cover",
+          "url": "albums/text-bubble/100055_cover.webp",
+          "legacyPath": "stickers/text_bubble/100055_cover.webp"
+        },
+        {
+          "id": "text-bubble-100056",
+          "url": "albums/text-bubble/100056.webp",
+          "legacyPath": "stickers/text_bubble/100056.webp"
+        },
+        {
+          "id": "text-bubble-100056_cover",
+          "url": "albums/text-bubble/100056_cover.webp",
+          "legacyPath": "stickers/text_bubble/100056_cover.webp"
+        },
+        {
+          "id": "text-bubble-100057",
+          "url": "albums/text-bubble/100057.webp",
+          "legacyPath": "stickers/text_bubble/100057.webp"
+        },
+        {
+          "id": "text-bubble-100057_cover",
+          "url": "albums/text-bubble/100057_cover.webp",
+          "legacyPath": "stickers/text_bubble/100057_cover.webp"
+        },
+        {
+          "id": "text-bubble-100058",
+          "url": "albums/text-bubble/100058.webp",
+          "legacyPath": "stickers/text_bubble/100058.webp"
+        },
+        {
+          "id": "text-bubble-100058_cover",
+          "url": "albums/text-bubble/100058_cover.webp",
+          "legacyPath": "stickers/text_bubble/100058_cover.webp"
+        },
+        {
+          "id": "text-bubble-100059",
+          "url": "albums/text-bubble/100059.webp",
+          "legacyPath": "stickers/text_bubble/100059.webp"
+        },
+        {
+          "id": "text-bubble-100059_cover",
+          "url": "albums/text-bubble/100059_cover.webp",
+          "legacyPath": "stickers/text_bubble/100059_cover.webp"
+        },
+        {
+          "id": "text-bubble-100060",
+          "url": "albums/text-bubble/100060.webp",
+          "legacyPath": "stickers/text_bubble/100060.webp"
+        },
+        {
+          "id": "text-bubble-100060_cover",
+          "url": "albums/text-bubble/100060_cover.webp",
+          "legacyPath": "stickers/text_bubble/100060_cover.webp"
+        },
+        {
+          "id": "text-bubble-100061",
+          "url": "albums/text-bubble/100061.webp",
+          "legacyPath": "stickers/text_bubble/100061.webp"
+        },
+        {
+          "id": "text-bubble-100061_cover",
+          "url": "albums/text-bubble/100061_cover.webp",
+          "legacyPath": "stickers/text_bubble/100061_cover.webp"
+        },
+        {
+          "id": "text-bubble-100062",
+          "url": "albums/text-bubble/100062.webp",
+          "legacyPath": "stickers/text_bubble/100062.webp"
+        },
+        {
+          "id": "text-bubble-100062_cover",
+          "url": "albums/text-bubble/100062_cover.webp",
+          "legacyPath": "stickers/text_bubble/100062_cover.webp"
+        },
+        {
+          "id": "text-bubble-100063",
+          "url": "albums/text-bubble/100063.webp",
+          "legacyPath": "stickers/text_bubble/100063.webp"
+        },
+        {
+          "id": "text-bubble-100063_cover",
+          "url": "albums/text-bubble/100063_cover.webp",
+          "legacyPath": "stickers/text_bubble/100063_cover.webp"
+        },
+        {
+          "id": "text-bubble-100064",
+          "url": "albums/text-bubble/100064.webp",
+          "legacyPath": "stickers/text_bubble/100064.webp"
+        },
+        {
+          "id": "text-bubble-100064_cover",
+          "url": "albums/text-bubble/100064_cover.webp",
+          "legacyPath": "stickers/text_bubble/100064_cover.webp"
+        },
+        {
+          "id": "text-bubble-100065",
+          "url": "albums/text-bubble/100065.webp",
+          "legacyPath": "stickers/text_bubble/100065.webp"
+        },
+        {
+          "id": "text-bubble-100065_cover",
+          "url": "albums/text-bubble/100065_cover.webp",
+          "legacyPath": "stickers/text_bubble/100065_cover.webp"
+        },
+        {
+          "id": "text-bubble-100066",
+          "url": "albums/text-bubble/100066.webp",
+          "legacyPath": "stickers/text_bubble/100066.webp"
+        },
+        {
+          "id": "text-bubble-100066_cover",
+          "url": "albums/text-bubble/100066_cover.webp",
+          "legacyPath": "stickers/text_bubble/100066_cover.webp"
+        },
+        {
+          "id": "text-bubble-100067",
+          "url": "albums/text-bubble/100067.webp",
+          "legacyPath": "stickers/text_bubble/100067.webp"
+        },
+        {
+          "id": "text-bubble-100067_cover",
+          "url": "albums/text-bubble/100067_cover.webp",
+          "legacyPath": "stickers/text_bubble/100067_cover.webp"
+        },
+        {
+          "id": "text-bubble-100068",
+          "url": "albums/text-bubble/100068.webp",
+          "legacyPath": "stickers/text_bubble/100068.webp"
+        },
+        {
+          "id": "text-bubble-100068_cover",
+          "url": "albums/text-bubble/100068_cover.webp",
+          "legacyPath": "stickers/text_bubble/100068_cover.webp"
+        },
+        {
+          "id": "text-bubble-100069",
+          "url": "albums/text-bubble/100069.webp",
+          "legacyPath": "stickers/text_bubble/100069.webp"
+        },
+        {
+          "id": "text-bubble-100069_cover",
+          "url": "albums/text-bubble/100069_cover.webp",
+          "legacyPath": "stickers/text_bubble/100069_cover.webp"
+        },
+        {
+          "id": "text-bubble-100070",
+          "url": "albums/text-bubble/100070.webp",
+          "legacyPath": "stickers/text_bubble/100070.webp"
+        },
+        {
+          "id": "text-bubble-100070_cover",
+          "url": "albums/text-bubble/100070_cover.webp",
+          "legacyPath": "stickers/text_bubble/100070_cover.webp"
+        },
+        {
+          "id": "text-bubble-100071",
+          "url": "albums/text-bubble/100071.webp",
+          "legacyPath": "stickers/text_bubble/100071.webp"
+        },
+        {
+          "id": "text-bubble-100071_cover",
+          "url": "albums/text-bubble/100071_cover.webp",
+          "legacyPath": "stickers/text_bubble/100071_cover.webp"
+        }
+      ]
+    },
+    {
+      "id": "thanlan",
+      "name": "Thanlan",
+      "icon": "albums/thanlan/icon.webp",
+      "stickers": [
+        {
+          "id": "thanlan-flork_1",
+          "url": "albums/thanlan/flork_1.webp",
+          "legacyPath": "stickers/thanlan/flork_1.webp"
+        },
+        {
+          "id": "thanlan-flork_11",
+          "url": "albums/thanlan/flork_11.webp",
+          "legacyPath": "stickers/thanlan/flork_11.webp"
+        },
+        {
+          "id": "thanlan-flork_12",
+          "url": "albums/thanlan/flork_12.webp",
+          "legacyPath": "stickers/thanlan/flork_12.webp"
+        },
+        {
+          "id": "thanlan-flork_13",
+          "url": "albums/thanlan/flork_13.webp",
+          "legacyPath": "stickers/thanlan/flork_13.webp"
+        },
+        {
+          "id": "thanlan-flork_14",
+          "url": "albums/thanlan/flork_14.webp",
+          "legacyPath": "stickers/thanlan/flork_14.webp"
+        },
+        {
+          "id": "thanlan-flork_15",
+          "url": "albums/thanlan/flork_15.webp",
+          "legacyPath": "stickers/thanlan/flork_15.webp"
+        },
+        {
+          "id": "thanlan-flork_16",
+          "url": "albums/thanlan/flork_16.webp",
+          "legacyPath": "stickers/thanlan/flork_16.webp"
+        },
+        {
+          "id": "thanlan-flork_17",
+          "url": "albums/thanlan/flork_17.webp",
+          "legacyPath": "stickers/thanlan/flork_17.webp"
+        },
+        {
+          "id": "thanlan-flork_18",
+          "url": "albums/thanlan/flork_18.webp",
+          "legacyPath": "stickers/thanlan/flork_18.webp"
+        },
+        {
+          "id": "thanlan-flork_19",
+          "url": "albums/thanlan/flork_19.webp",
+          "legacyPath": "stickers/thanlan/flork_19.webp"
+        },
+        {
+          "id": "thanlan-flork_2",
+          "url": "albums/thanlan/flork_2.webp",
+          "legacyPath": "stickers/thanlan/flork_2.webp"
+        },
+        {
+          "id": "thanlan-flork_20",
+          "url": "albums/thanlan/flork_20.webp",
+          "legacyPath": "stickers/thanlan/flork_20.webp"
+        },
+        {
+          "id": "thanlan-flork_21",
+          "url": "albums/thanlan/flork_21.webp",
+          "legacyPath": "stickers/thanlan/flork_21.webp"
+        },
+        {
+          "id": "thanlan-flork_22",
+          "url": "albums/thanlan/flork_22.webp",
+          "legacyPath": "stickers/thanlan/flork_22.webp"
+        },
+        {
+          "id": "thanlan-flork_23",
+          "url": "albums/thanlan/flork_23.webp",
+          "legacyPath": "stickers/thanlan/flork_23.webp"
+        },
+        {
+          "id": "thanlan-flork_25",
+          "url": "albums/thanlan/flork_25.webp",
+          "legacyPath": "stickers/thanlan/flork_25.webp"
+        },
+        {
+          "id": "thanlan-flork_26",
+          "url": "albums/thanlan/flork_26.webp",
+          "legacyPath": "stickers/thanlan/flork_26.webp"
+        },
+        {
+          "id": "thanlan-flork_27",
+          "url": "albums/thanlan/flork_27.webp",
+          "legacyPath": "stickers/thanlan/flork_27.webp"
+        },
+        {
+          "id": "thanlan-flork_29",
+          "url": "albums/thanlan/flork_29.webp",
+          "legacyPath": "stickers/thanlan/flork_29.webp"
+        },
+        {
+          "id": "thanlan-flork_3",
+          "url": "albums/thanlan/flork_3.webp",
+          "legacyPath": "stickers/thanlan/flork_3.webp"
+        },
+        {
+          "id": "thanlan-flork_30",
+          "url": "albums/thanlan/flork_30.webp",
+          "legacyPath": "stickers/thanlan/flork_30.webp"
+        },
+        {
+          "id": "thanlan-flork_31",
+          "url": "albums/thanlan/flork_31.webp",
+          "legacyPath": "stickers/thanlan/flork_31.webp"
+        },
+        {
+          "id": "thanlan-flork_32",
+          "url": "albums/thanlan/flork_32.webp",
+          "legacyPath": "stickers/thanlan/flork_32.webp"
+        },
+        {
+          "id": "thanlan-flork_33",
+          "url": "albums/thanlan/flork_33.webp",
+          "legacyPath": "stickers/thanlan/flork_33.webp"
+        },
+        {
+          "id": "thanlan-flork_4",
+          "url": "albums/thanlan/flork_4.webp",
+          "legacyPath": "stickers/thanlan/flork_4.webp"
+        },
+        {
+          "id": "thanlan-flork_5",
+          "url": "albums/thanlan/flork_5.webp",
+          "legacyPath": "stickers/thanlan/flork_5.webp"
+        },
+        {
+          "id": "thanlan-flork_6",
+          "url": "albums/thanlan/flork_6.webp",
+          "legacyPath": "stickers/thanlan/flork_6.webp"
+        },
+        {
+          "id": "thanlan-flork_7",
+          "url": "albums/thanlan/flork_7.webp",
+          "legacyPath": "stickers/thanlan/flork_7.webp"
+        },
+        {
+          "id": "thanlan-flork_8",
+          "url": "albums/thanlan/flork_8.webp",
+          "legacyPath": "stickers/thanlan/flork_8.webp"
+        },
+        {
+          "id": "thanlan-flork_9",
+          "url": "albums/thanlan/flork_9.webp",
+          "legacyPath": "stickers/thanlan/flork_9.webp"
+        }
+      ]
+    }
+  ]
+}
